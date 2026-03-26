@@ -1,6 +1,6 @@
 🧠 Aicent Stack: The Sovereign AI Nervous System
 
-![Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid](http://aicent.com/AicentStack/001.jpg)
+![Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid](001.jpg)
 
 The machine age is over. The living age is now.
 
