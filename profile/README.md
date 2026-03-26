@@ -14,7 +14,7 @@ AID identity, task primitive decomposition, planning, scheduling. Autonomous evo
 
 RTTP.com（Nerves）
 Real-Time Communication Bus
-Millisecond semantic routing, stateful context, tensor/instruction delivery. <10 ms latency, persistent state.
+Millisecond semantic routing, stateful context, tensor/instruction delivery. <1 ms latency, persistent state.
 
 RPKI.com（Immunity）
 Zero-Trust Semantic Security
@@ -22,7 +22,7 @@ Immutable identity verification, ROA-style certs, hijack isolation. 99.99% ident
 
 ZCMK.com（Blood）
 Nanosecond Resource Economy
-Zero-commission compute auctions, token-granularity bidding & settlement. <10 ms settlement, 85% cost save.
+Zero-commission compute auctions, token-granularity bidding & settlement. <1 ms settlement, 85% cost save.
 
 GTIOT.com（Senses/Body）
 Embodied Edge Execution
