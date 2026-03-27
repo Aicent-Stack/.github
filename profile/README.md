@@ -48,7 +48,7 @@ System Status: EVOLVING. Built in public for the top 0.1% architects.
 
 ---
 
-Links
+💎 Links
 
 Website: http://aicent.com
 X: @Aicent_com  Contact: lee@Aicent.com
