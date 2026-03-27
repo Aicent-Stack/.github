@@ -46,10 +46,23 @@ Sovereign Security: Hardware-level RPKI attestation.
 
 System Status: EVOLVING. Built in public for the top 0.1% architects.
 
+---
+
 Links
 
-Website: http://aicent.com
-X: @Aicent_com
-Contact: lee@Aicent.com
+Website: https://aicent.com
+X: @Aicent_com  Contact: lee@Aicent.com
 
 Built with ❤️ for the Sovereign Lifeform Epoch.
+
+
+### 🚀 Quick Start (Enter the Pulse)
+
+Experience the sub-ms neural synchronization of the Aicent Stack:
+
+```bash
+# Clone the RTTP core protocol
+git clone https://github.com
+
+# Run the pulse frame benchmark
+cd rttp && cargo run --example demo
