@@ -48,13 +48,6 @@ System Status: EVOLVING. Built in public for the top 0.1% architects.
 
 ---
 
-💎 Links
-
-Website: http://aicent.com
-X: @Aicent_com  Contact: lee@Aicent.com
-
-Built with ❤️ for the Sovereign Lifeform Epoch.
-
 🚀 Quick Start (Blueprint Exploration)
 Aicent Stack is currently in the Logic Prototype (RFC-001) phase. We are releasing core protocol specifications and reference implementations in Rust.
 
@@ -66,3 +59,10 @@ git clone https://github.com
 cd rttp && cat src/header.rs
 
 Interested in building the sub-ms future? Open an issue or contact us.
+
+💎 Links
+
+Website: http://aicent.com
+X: @Aicent_com  Contact: lee@Aicent.com
+
+Built with ❤️ for the Sovereign Lifeform Epoch.
