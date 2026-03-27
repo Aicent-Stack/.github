@@ -1,4 +1,6 @@
 🧠 Aicent Stack: The Sovereign AI Nervous System
+![Rust CI](https://github.com/Aicent-Stack/.github/workflows/rust-ci.yml/badge.svg)
+**Aicent Stack • Sovereign AI Nervous System** | SYSTEM STATUS: EVOLVING
 
 ![Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid](https://github.com/Aicent-Stack/.github/blob/d44bbc10dcabf0c03c250f186f8c2ed0a04d1235/001.jpg)
 
