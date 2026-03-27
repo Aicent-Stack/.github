@@ -2,16 +2,8 @@
 
 
 | ⚪ **AICENT** | 💎 **RTTP** | 🔴 **RPKI** | 🟢 **ZCMK** | 🟡 **GTIOT** |
-| :--- | :--- | :--- | :--- | :--- |
-| <font color="#ffffff">中枢白 (Brain)</font> | <font color="#00ffff">神经青 (Nerves)</font> | <font color="#ff0000">安全红 (Immunity)</font> | <font color="#00ff00">算力绿 (Blood)</font> | <font color="#ffd700">边缘金 (Body)</font> |
 
-> **SYSTEM STATUS:** <kbd> **EVOLVING** </kbd>
-
----
-
-**The Sovereign AI Nervous System** | Reclaiming AI Sovereignty from silicon to semantics.
-
-![Aicent Architecture](./architecture.png)
+**Aicent Stack • Sovereign AI Nervous System** | SYSTEM STATUS: EVOLVING
 
 
 ![Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid](https://github.com/Aicent-Stack/.github/blob/d44bbc10dcabf0c03c250f186f8c2ed0a04d1235/001.jpg)
