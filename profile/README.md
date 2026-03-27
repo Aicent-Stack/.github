@@ -1,12 +1,12 @@
 # 🧠 Aicent Stack: The Sovereign AI Nervous System
 
+ ⚪ **AICENT**  💎 **RTTP**  🔴 **RPKI**  🟢 **ZCMK**  🟡 **GTIOT** 
+ 
 <p align="left">
   <code> 🛠️ Build: Passing </code> &nbsp; 
   <code> 🦀 Language: Rust </code> &nbsp; 
   <code> 🛡️ Status: EVOLVING </code>
 </p>
-
- ⚪ **AICENT**  💎 **RTTP**  🔴 **RPKI**  🟢 **ZCMK**  🟡 **GTIOT** 
 
 **Aicent Stack • Sovereign AI Nervous System** | SYSTEM STATUS: <kbd>EVOLVING</kbd>
 
