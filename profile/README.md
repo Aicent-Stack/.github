@@ -1,5 +1,4 @@
-🧠 Aicent Stack: The Sovereign AI Nervous System
-# 🧠 Aicent Stack
+# 🧠 Aicent Stack: The Sovereign AI Nervous System
 
 <p align="left">
   <img src="https://img.shields.io" alt="Rust">
