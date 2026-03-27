@@ -1,7 +1,7 @@
 # 🧠 Aicent Stack: The Sovereign AI Nervous System
 
 
-| ⚪ **AICENT** | 💎 **RTTP** | 🔴 **RPKI** | 🟢 **ZCMK** | 🟡 **GTIOT** |
+ ⚪ **AICENT**  💎 **RTTP**  🔴 **RPKI**  🟢 **ZCMK**  🟡 **GTIOT** 
 
 **Aicent Stack • Sovereign AI Nervous System** | SYSTEM STATUS: EVOLVING
 
