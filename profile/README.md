@@ -1,5 +1,12 @@
 # 🧠 Aicent Stack: The Sovereign AI Nervous System
 
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://img.shields.io" alt="Build Status">
+  </a>
+  <img src="https://img.shields.io" alt="Rust">
+  <img src="https://img.shields.io" alt="Status">
+</p>
 
  ⚪ **AICENT**  💎 **RTTP**  🔴 **RPKI**  🟢 **ZCMK**  🟡 **GTIOT** 
 
