@@ -50,7 +50,7 @@ System Status: EVOLVING. Built in public for the top 0.1% architects.
 
 Links
 
-Website: https://aicent.com
+Website: http://aicent.com
 X: @Aicent_com  Contact: lee@Aicent.com
 
 Built with ❤️ for the Sovereign Lifeform Epoch.
