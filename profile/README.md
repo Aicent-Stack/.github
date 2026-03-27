@@ -45,3 +45,11 @@ Zero-Copy: io_uring & RDMA optimized Rust kernel.
 Sovereign Security: Hardware-level RPKI attestation.
 
 System Status: EVOLVING. Built in public for the top 0.1% architects.
+
+Links
+
+Website: http://aicent.com
+X: @Aicent_com
+Contact: lee@Aicent.com
+
+Built with ❤️ for the Sovereign Lifeform Epoch.
