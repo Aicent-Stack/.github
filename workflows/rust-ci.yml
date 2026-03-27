@@ -1,0 +1,52 @@
+name: Rust CI - Aicent Stack
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  check:
+    name: Check & Test
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        crate:
+          - aicent
+          - rttp
+          - rpki
+          - zcmk
+          - gtiot
+
+    defaults:
+      run:
+        working-directory: ../${{ matrix.crate }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+
+      - name: Cache cargo
+        uses: Swatinem/rust-cache@v2
+
+      - name: Run cargo check
+        run: cargo check --all-targets
+
+      - name: Run rustfmt
+        run: cargo fmt --all -- --check
+
+      - name: Run clippy
+        run: cargo clippy --all-targets -- -D warnings
+
+      - name: Run tests
+        run: cargo test --all-targets
+
+      - name: Build examples
+        run: cargo build --examples
