@@ -1,6 +1,12 @@
 🧠 Aicent Stack: The Sovereign AI Nervous System
-![Rust](https://img.shields.io) ![Status](https://img.shields.io)
+# 🧠 Aicent Stack
+
+<p align="left">
+  <img src="https://img.shields.io" alt="Rust">
+  <img src="https://img.shields.io" alt="Status">
+</p>
 **Aicent Stack • Sovereign AI Nervous System** | SYSTEM STATUS: EVOLVING
+---
 
 ![Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid](https://github.com/Aicent-Stack/.github/blob/d44bbc10dcabf0c03c250f186f8c2ed0a04d1235/001.jpg)
 
