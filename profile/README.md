@@ -55,14 +55,14 @@ X: @Aicent_com  Contact: lee@Aicent.com
 
 Built with ❤️ for the Sovereign Lifeform Epoch.
 
+🚀 Quick Start (Blueprint Exploration)
+Aicent Stack is currently in the Logic Prototype (RFC-001) phase. We are releasing core protocol specifications and reference implementations in Rust.
 
-### 🚀 Quick Start (Enter the Pulse)
-
-Experience the sub-ms neural synchronization of the Aicent Stack:
-
-```bash
-# Clone the RTTP core protocol
+bash
+# Explore the RTTP pulse specification
 git clone https://github.com
 
-# Run the pulse frame benchmark
-cd rttp && cargo run --example demo
+# Check the 64-byte aligned header logic
+cd rttp && cat src/header.rs
+
+Interested in building the sub-ms future? Open an issue or contact us.
