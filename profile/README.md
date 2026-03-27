@@ -10,7 +10,7 @@
 
 ![Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid](https://github.com/Aicent-Stack/.github/blob/d44bbc10dcabf0c03c250f186f8c2ed0a04d1235/001.jpg)
 
-The machine age is over. The living age is now.
+# The machine age is over. The living age is now.
 
 Aicent Stack is a 5-domain biological protocol suite designed to solve the Latency Tax and Trust Crisis in decentralized AI. We are building the nerves, immunity, and bloodstream for the next era of intelligence.
 
