@@ -8,7 +8,9 @@
   <code> 🛡️ Status: EVOLVING </code>
 </p>
 
-![Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid]![Aicent](https://github.com/user-attachments/assets/5a7b1047-3ebe-464d-9f2f-59402c15e940)
+## Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid
+
+![Aicent](https://github.com/user-attachments/assets/c9b84335-ff51-49b5-aa25-e5ca5a12252c)
 
 # The machine age is over. The living age is now.
 
