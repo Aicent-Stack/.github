@@ -68,3 +68,5 @@ Website: http://aicent.com
 X: @Aicent_com  Contact: lee@Aicent.com
 
 Built with ❤️ for the Sovereign Lifeform Epoch.
+
+## Inspired by classic RPKI (RFC 6480), but evolved for nanosecond AI pulses. We are moving beyond ROAs to real-time semantic immunity.
