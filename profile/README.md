@@ -12,9 +12,7 @@
 
 ![Aicent](https://github.com/user-attachments/assets/c9b84335-ff51-49b5-aa25-e5ca5a12252c)
 
-## Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid
-
-# 🧬 Aicent Stack
+## 🧬 Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid
 
 **The Sovereign AI Nervous System**  
 Building the first complete biological blueprint for autonomous, self-evolving AI lifeforms.
