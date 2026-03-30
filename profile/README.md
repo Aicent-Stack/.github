@@ -68,5 +68,5 @@ graph TD
 
 Built for the **Sovereign Lifeform Epoch**.
 
-[Visit Aicent.com](https://aicent.com)
+[Visit Aicent.com](http://aicent.com)
 ```
