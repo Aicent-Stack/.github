@@ -9,8 +9,6 @@
 </p>
 
 > ### ✅ Core Workspace Synchronized
-> **5-Domain DAG:** `RPKI` 🔴 ➔ `RTTP` 🔵 ➔ `AICENT` ⚪ ➔ `ZCMK` 🟢 ➔ `GTIOT` 🟡
-
 
 ![Aicent](https://github.com/user-attachments/assets/c9b84335-ff51-49b5-aa25-e5ca5a12252c)
 
