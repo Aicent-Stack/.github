@@ -73,3 +73,9 @@ graph TD
 Built for the **Sovereign Lifeform Epoch**.
 
 [Visit Aicent.com](http://aicent.com)
+
+## Development
+All shared dependencies are defined in the root Cargo.toml.
+To upgrade a dependency, edit [workspace.dependencies] in the root.
+SYSTEM STATUS: EVOLVING
+Built for the Sovereign Lifeform Epoch.
