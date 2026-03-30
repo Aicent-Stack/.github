@@ -55,7 +55,7 @@ Aicent Stack is currently in the Logic Prototype (RFC-001) phase. We are releasi
 
 bash
 # Explore the RTTP pulse specification
-git clone https://github.com
+git clone https://github.com/Aicent-Stack
 
 # Check the 64-byte aligned header logic
 cd rttp && cat src/header.rs
