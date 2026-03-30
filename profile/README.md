@@ -34,10 +34,14 @@ Building the first complete biological blueprint for autonomous, self-evolving A
 All five core crates are managed under a unified workspace:  
 **👉 [aicent-stack](https://github.com/Aicent-Stack/aicent-stack)**
 
+## Quick Start
+
 ```bash
 git clone https://github.com/Aicent-Stack/aicent-stack.git
 cd aicent-stack
 cargo check
+cargo build
+cargo run --example demo -p rttp   # run RTTP demo
 ```
 
 ## Genesis Manifesto
