@@ -21,8 +21,6 @@ Building the first complete biological blueprint for autonomous, self-evolving A
 
 ## Biological Blueprint
 
-The Aicent Stack fuses five interdependent protocol layers into a single closed-loop sovereign organism:
-
 | Layer       | Module          | Role                                      | Repository |
 |-------------|-----------------|-------------------------------------------|------------|
 | **Brain**   | Aicent          | AID identity + autonomous task decomposition | [aicent](https://github.com/Aicent-Stack/aicent) |
@@ -31,12 +29,23 @@ The Aicent Stack fuses five interdependent protocol layers into a single closed-
 | **Blood**   | ZCMK            | Zero-commission DePIN compute market & value flow | [zcmk](https://github.com/Aicent-Stack/zcmk) |
 | **Body**    | GTIOT           | Embodied sensing & actuation with shadow state | [gtiot](https://github.com/Aicent-Stack/gtiot) |
 
-## Genesis Manifesto & Reference Architecture
+## Cargo Workspace
 
-Read the complete **Genesis Manifesto & Hardcore Reference Architecture** here:  
-👉 **[The Aicent Stack Manifesto](https://github.com/Aicent-Stack/manifesto)**
+All five core crates are managed under a unified workspace:  
+**👉 [aicent-stack](https://github.com/Aicent-Stack/aicent-stack)**
 
-## System Flow (Closed Evolutionary Loop)
+```bash
+git clone https://github.com/Aicent-Stack/aicent-stack.git
+cd aicent-stack
+cargo check
+```
+
+## Genesis Manifesto
+
+Read the complete **Genesis Manifesto & Hardcore Reference Architecture**:  
+👉 **[manifesto](https://github.com/Aicent-Stack/manifesto)**
+
+## System Flow
 
 ```mermaid
 graph TD
@@ -46,20 +55,16 @@ graph TD
     Z -->|settled value| G
 ```
 
-Every RTTP packet carries RPKI attestation.  
-Every compute cycle triggers ZCMK atomic settlement.  
-The loop is closed, self-optimizing, and economically alive.
-
 **SYSTEM STATUS: EVOLVING**
 
 ---
 
 ## Get Involved
 
-- ⭐ Star and watch the repositories  
-- 📖 Review the Manifesto and RFCs  
-- 🔧 Contribute code, benchmarks, or edge-node testing  
-- 💬 Join the conversation on X [@Aicent_com](https://x.com/Aicent_com)
+- ⭐ Star the repositories  
+- 📖 Read the Manifesto  
+- 🔧 Contribute to any crate  
+- 💬 Follow [@Aicent_com](https://x.com/Aicent_com)
 
 Built for the **Sovereign Lifeform Epoch**.
 
