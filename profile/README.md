@@ -10,7 +10,14 @@
 
 ### ✅ Core Workspace Synchronized. 5 Protocols. 1 Ecosystem.
 > **✅ Architecture: 5-Domain DAG | Inter-dependency:**
-> ![RPKI](https://img.shields.io) ➔ ![RTTP](https://img.shields.io) ➔ ![AICENT](https://img.shields.io) ➔ ![ZCMK](https://img.shields.io) ➔ ![GTIOT](https://img.shields.io)
+<p align="left">
+  <strong>✅ Architecture: 5-Domain DAG | Inter-dependency:</strong><br><br>
+  <img src="https://img.shields.io" alt="RPKI"> ➔ 
+  <img src="https://img.shields.io" alt="RTTP"> ➔ 
+  <img src="https://img.shields.io" alt="AICENT"> ➔ 
+  <img src="https://img.shields.io" alt="ZCMK"> ➔ 
+  <img src="https://img.shields.io" alt="GTIOT">
+</p>
 
 ![Aicent](https://github.com/user-attachments/assets/c9b84335-ff51-49b5-aa25-e5ca5a12252c)
 
