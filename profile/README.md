@@ -8,10 +8,11 @@
   <code> 🛡️ Status: EVOLVING </code>
 </p>
 
-## Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid
 ### ✅ Core Workspace Synchronized. 5 Protocols. 1 Ecosystem.
 
 ![Aicent](https://github.com/user-attachments/assets/c9b84335-ff51-49b5-aa25-e5ca5a12252c)
+
+## Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid
 
 # 🧬 Aicent Stack
 
