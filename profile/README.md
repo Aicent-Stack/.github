@@ -12,61 +12,56 @@
 
 ![Aicent](https://github.com/user-attachments/assets/c9b84335-ff51-49b5-aa25-e5ca5a12252c)
 
-# The machine age is over. The living age is now.
+# 🧬 Aicent Stack
 
-Aicent Stack is a 5-domain biological protocol suite designed to solve the Latency Tax and Trust Crisis in decentralized AI. We are building the nerves, immunity, and bloodstream for the next era of intelligence.
-
-🧬 The Biological Blueprint
-
-Aicent.com（Brain）
-Intelligence & Orchestration
-AID identity, task primitive decomposition, planning, scheduling. Autonomous evolutionary loop.
-
-RTTP.com（Nerves）
-Real-Time Communication Bus
-Millisecond semantic routing, stateful context, tensor/instruction delivery. <1 ms latency, persistent state.
-
-RPKI.com（Immunity）
-Zero-Trust Semantic Security
-Immutable identity verification, ROA-style certs, hijack isolation. 99.99% identity integrity.
-
-ZCMK.com（Blood）
-Nanosecond Resource Economy
-Zero-commission compute auctions, token-granularity bidding & settlement. <1 ms settlement, 85% cost save.
-
-GTIOT.com（Senses/Body）
-Embodied Edge Execution
-Sensor ingestion, preliminary inference, physical actuation + shadow states. 1.2B+ trusted sensors, ESG edge.
-
-🦀 Hardcore Performance
-
-Wire Speed: <800µs KV-cache synchronization.
-
-Zero-Copy: io_uring & RDMA optimized Rust kernel.
-
-Sovereign Security: Hardware-level RPKI attestation.
-
-System Status: EVOLVING. Built in public for the top 0.1% architects.
+**The Sovereign AI Nervous System**  
+Building the first complete biological blueprint for autonomous, self-evolving AI lifeforms.
 
 ---
 
-🚀 Quick Start (Blueprint Exploration)
-Aicent Stack is currently in the Logic Prototype (RFC-001) phase. We are releasing core protocol specifications and reference implementations in Rust.
+## Biological Blueprint
 
-bash
-# Explore the RTTP pulse specification
-git clone https://github.com/Aicent-Stack
+The Aicent Stack fuses five interdependent protocol layers into a single closed-loop sovereign organism:
 
-# Check the 64-byte aligned header logic
-cd rttp && cat src/header.rs
+| Layer       | Module          | Role                                      | Repository |
+|-------------|-----------------|-------------------------------------------|------------|
+| **Brain**   | Aicent          | AID identity + autonomous task decomposition | [aicent](https://github.com/Aicent-Stack/aicent) |
+| **Nerves**  | RTTP            | Sub-millisecond Pulse Frame nervous system | [rttp](https://github.com/Aicent-Stack/rttp) |
+| **Immunity**| RPKI            | Zero-trust watermark & task-chain verification | [rpki](https://github.com/Aicent-Stack/rpki) |
+| **Blood**   | ZCMK            | Zero-commission DePIN compute market & value flow | [zcmk](https://github.com/Aicent-Stack/zcmk) |
+| **Body**    | GTIOT           | Embodied sensing & actuation with shadow state | [gtiot](https://github.com/Aicent-Stack/gtiot) |
 
-Interested in building the sub-ms future? Open an issue or contact us.
+## Genesis Manifesto & Reference Architecture
 
-💎 Links
+Read the complete **Genesis Manifesto & Hardcore Reference Architecture** here:  
+👉 **[The Aicent Stack Manifesto](https://github.com/Aicent-Stack/manifesto)**
 
-Website: http://aicent.com
-X: @Aicent_com  Contact: lee@Aicent.com
+## System Flow (Closed Evolutionary Loop)
 
-Built with ❤️ for the Sovereign Lifeform Epoch.
+```mermaid
+graph TD
+    G[GTIOT • Body] -->|semantic data streams| R[RTTP • Nerves]
+    R <-->|RPKI handshake + ZCMK metering| A[Aicent • Brain]
+    A -->|resource bidding| Z[ZCMK • Blood]
+    Z -->|settled value| G
+```
 
-## Inspired by classic RPKI (RFC 6480), but evolved for nanosecond AI pulses. We are moving beyond ROAs to real-time semantic immunity.
+Every RTTP packet carries RPKI attestation.  
+Every compute cycle triggers ZCMK atomic settlement.  
+The loop is closed, self-optimizing, and economically alive.
+
+**SYSTEM STATUS: EVOLVING**
+
+---
+
+## Get Involved
+
+- ⭐ Star and watch the repositories  
+- 📖 Review the Manifesto and RFCs  
+- 🔧 Contribute code, benchmarks, or edge-node testing  
+- 💬 Join the conversation on X [@Aicent_com](https://x.com/Aicent_com)
+
+Built for the **Sovereign Lifeform Epoch**.
+
+[Visit Aicent.com](https://aicent.com)
+```
