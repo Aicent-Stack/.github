@@ -23,11 +23,11 @@ Building the first complete biological blueprint for autonomous, self-evolving A
 
 | Layer       | Module          | Role                                      | Repository |
 |-------------|-----------------|-------------------------------------------|------------|
-| **Brain**   | Aicent          | AID identity + autonomous task decomposition | [aicent](https://github.com/Aicent-Stack/aicent) |
-| **Nerves**  | RTTP            | Sub-millisecond Pulse Frame nervous system | [rttp](https://github.com/Aicent-Stack/rttp) |
-| **Immunity**| RPKI            | Zero-trust watermark & task-chain verification | [rpki](https://github.com/Aicent-Stack/rpki) |
-| **Blood**   | ZCMK            | Zero-commission DePIN compute market & value flow | [zcmk](https://github.com/Aicent-Stack/zcmk) |
-| **Body**    | GTIOT           | Embodied sensing & actuation with shadow state | [gtiot](https://github.com/Aicent-Stack/gtiot) |
+| **Brain**   | Aicent.com          | AID identity + autonomous task decomposition | [aicent](https://github.com/Aicent-Stack/aicent) |
+| **Nerves**  | RTTP.com            | Sub-millisecond Pulse Frame nervous system | [rttp](https://github.com/Aicent-Stack/rttp) |
+| **Immunity**| RPKI.com            | Zero-trust watermark & task-chain verification | [rpki](https://github.com/Aicent-Stack/rpki) |
+| **Blood**   | ZCMK.com            | Zero-commission DePIN compute market & value flow | [zcmk](https://github.com/Aicent-Stack/zcmk) |
+| **Body**    | GTIOT.com           | Embodied sensing & actuation with shadow state | [gtiot](https://github.com/Aicent-Stack/gtiot) |
 
 ## Cargo Workspace
 
