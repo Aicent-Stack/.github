@@ -1,3 +1,5 @@
+Aicent Stack • Sovereign AI Nervous System
+
 # 🧠 Aicent Stack: The Sovereign AI Nervous System
 
 **Building the first complete biological blueprint for autonomous, self-evolving AI organisms.**
