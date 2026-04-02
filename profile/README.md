@@ -11,6 +11,8 @@
 
 ⚪ **AICENT** (Brain) | 💎 **RTTP** (Nerves) | 🔴 **RPKI** (Immunity) | 🟢 **ZCMK** (Blood) | 🟡 **GTIOT** (Body)
 
+![Aicent](https://github.com/user-attachments/assets/2955a732-1354-49a2-8a85-3d1a9169069d)
+
 ---
 
 ## 🧬 Biological Neural Map & Protocol Suite
