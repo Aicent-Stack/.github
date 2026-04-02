@@ -1,55 +1,60 @@
 # 🧠 Aicent Stack: The Sovereign AI Nervous System
 
- ⚪ **AICENT**  💎 **RTTP**  🔴 **RPKI**  🟢 **ZCMK**  🟡 **GTIOT** 
- 
+**Building the first complete biological blueprint for autonomous, self-evolving AI organisms.**
+
 <p align="left">
-  <code> 🛠️ Build: Passing </code> &nbsp; 
-  <code> 🦀 Language: Rust </code> &nbsp; 
-  <code> 🛡️ Status: EVOLVING </code>
+  <img src="https://img.shields.io/badge/Status-Homeostasis-brightgreen.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Language-Rust-orange.svg" alt="Language">
+  <img src="https://img.shields.io/badge/Specs-RFC--001--005-blue.svg" alt="Specs">
+  <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg" alt="License">
 </p>
 
-> ### ✅ Core Workspace Synchronized
-
-![Aicent](https://github.com/user-attachments/assets/c9b84335-ff51-49b5-aa25-e5ca5a12252c)
-
-## 🧬 Aicent Stack - Biological Neural Map meets Industrial Infrastructure Grid
-
-**The Sovereign AI Nervous System**  
-Building the first complete biological blueprint for autonomous, self-evolving AI lifeforms.
+⚪ **AICENT** (Brain) | 💎 **RTTP** (Nerves) | 🔴 **RPKI** (Immunity) | 🟢 **ZCMK** (Blood) | 🟡 **GTIOT** (Body)
 
 ---
 
-## Biological Blueprint
+## 🧬 Biological Neural Map & Protocol Suite
 
-| Layer       | Module          | Role                                      | Repository |
-|-------------|-----------------|-------------------------------------------|------------|
-| **Brain**   | [Aicent.com](http://aicent.com) | AID identity + autonomous task decomposition | [aicent](https://github.com/Aicent-Stack/aicent) |
-| **Nerves**  | [RTTP.com](http://rttp.com) | Sub-millisecond Pulse Frame nervous system | [rttp](https://github.com/Aicent-Stack/rttp) |
-| **Immunity**| [RPKI.com](http://rpki.com) | Zero-trust watermark & task-chain verification | [rpki](https://github.com/Aicent-Stack/rpki) |
-| **Blood**   | [ZCMK.com](http://zcmk.com) | Zero-commission DePIN compute market & value flow | [zcmk](https://github.com/Aicent-Stack/zcmk) |
-| **Body**    | [GTIOT.com](http://gtiot.com) | Embodied sensing & actuation with shadow state | [gtiot](https://github.com/Aicent-Stack/gtiot) |
+The Aicent Stack is governed by five indivisible RFC protocols. Running them separately inherits the "latency-taxed corpse" of legacy cloud. Running them together creates **Homeostasis**.
 
-## Cargo Workspace
+| Layer (RFC) | Module | Role | Repository |
+|:---|:---|:---|:---|
+| **Brain** [RFC-001] | [Aicent.com](http://aicent.com) | Sovereign Identity & Cognitive Scheduling | [**aicent**](https://github.com/Aicent-Stack/aicent) |
+| **Nerves** [RFC-002] | [RTTP.com](http://rttp.com) | Stateful Semantic Multicast & KV Sync | [**rttp**](https://github.com/Aicent-Stack/rttp) |
+| **Immunity** [RFC-003] | [RPKI.com](http://rpki.com) | Parallel Tensor Watermarking & Defense | [**rpki**](https://github.com/Aicent-Stack/rpki) |
+| **Blood** [RFC-004] | [ZCMK.com](http://zcmk.com) | Zero-Commission RTBA Settlement | [**zcmk**](https://github.com/Aicent-Stack/zcmk) |
+| **Body** [RFC-005] | [GTIOT.com](http://gtiot.com) | High-Fidelity Edge Fusion & Actuation | [**gtiot**](https://github.com/Aicent-Stack/gtiot) |
 
-All five core crates are managed under a unified workspace:  
-**👉 [aicent-stack](https://github.com/Aicent-Stack/aicent-stack)**
+---
 
-## Quick Start
+## 🚀 Quick Start: Experience the Organism
+
+The fastest way to witness the sub-1ms reflex arc of the Sovereign AI is via the **[aicent-demo](https://github.com/Aicent-Stack/aicent-demo)** repository.
 
 ```bash
-git clone https://github.com/Aicent-Stack/aicent-stack.git
-cd aicent-stack
-cargo check
-cargo build
-cargo run --example demo -p rttp   # run RTTP demo
+# Clone the demonstration suite
+git clone https://github.com/Aicent-Stack/aicent-demo.git
+cd aicent-demo
+
+# Wake up the full organism (Full Reflex Arc)
+cargo run --bin aicent-organism
+
+# Test individual organs
+cargo run --bin rttp-demo    # Nerves (RFC-002)
+cargo run --bin rpki-demo    # Immunity (RFC-003)
 ```
 
-## Genesis Manifesto
+---
 
-Read the complete **Genesis Manifesto & Hardcore Reference Architecture**:  
-👉 **[manifesto](https://github.com/Aicent-Stack/manifesto)**
+## 📜 Technical Foundation
 
-## System Flow
+- **[Genesis Manifesto](https://github.com/Aicent-Stack/manifesto)**: The philosophical and architectural cornerstone of the Sovereign Lifeform Epoch.
+- **[RFC Specifications](https://github.com/Aicent-Stack/manifesto/tree/main/rfcs)**: Detailed protocol definitions for RFC-001 through RFC-005.
+- **[Unified Workspace](https://github.com/Aicent-Stack/aicent-stack)**: The root Cargo workspace managing all core crates.
+
+---
+
+## 🕸️ System Operational Flow
 
 ```mermaid
 graph TD
@@ -59,23 +64,20 @@ graph TD
     Z -->|settled value| G
 ```
 
-**SYSTEM STATUS: EVOLVING**
+**"The latency-tax is dead. The organism is breathing."**
 
 ---
 
-## Get Involved
+## 🤝 Get Involved
 
-- ⭐ Star the repositories  
-- 📖 Read the Manifesto  
-- 🔧 Contribute to any crate  
-- 💬 Follow [@Aicent_com](https://x.com/Aicent_com)
-
-Built for the **Sovereign Lifeform Epoch**.
+- ⭐ **Star** the repositories to follow the evolution.
+- 📖 **Read** the RFCs and contribute to the standards.
+- 💬 **Follow** [@Aicent_com](https://x.com/Aicent_com) for real-time neural pulses.
+- 🏗️ **Build** on the only stack where AI has a physical pulse.
 
 [Visit Aicent.com](http://aicent.com)
 
-## Development
-All shared dependencies are defined in the root Cargo.toml.
-To upgrade a dependency, edit [workspace.dependencies] in the root.
-SYSTEM STATUS: EVOLVING
-Built for the Sovereign Lifeform Epoch.
+---
+© 2026 Aicent.com Organization. **SYSTEM STATUS: HOMEOTASIS**
+
+---
