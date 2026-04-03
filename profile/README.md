@@ -56,7 +56,7 @@ cargo run --bin rpki-demo    # Immunity (RFC-003)
 ## 📜 Technical Foundation
 
 - **[Genesis Manifesto](https://github.com/Aicent-Stack/manifesto)**: The philosophical and architectural cornerstone of the Sovereign Lifeform Epoch.
-- **[RFC Specifications](https://github.com/Aicent-Stack/manifesto/tree/main/rfcs)**: Detailed protocol definitions for RFC-001 through RFC-005.
+- **[RFC Specifications](https://github.com/Aicent-Stack/manifesto/tree/main/rfcs)**: Detailed protocol definitions for RFC-001 through RFC-006.
 - **[Unified Workspace](https://github.com/Aicent-Stack/aicent-stack)**: The root Cargo workspace managing all core crates.
 
 ---
