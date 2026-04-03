@@ -19,18 +19,18 @@
 ![Aicent](https://github.com/user-attachments/assets/2955a732-1354-49a2-8a85-3d1a9169069d)
 
 ---
-
 ## 🧬 Biological Neural Map & Protocol Suite
 
-The Aicent Stack is governed by five indivisible RFC protocols. Running them separately inherits the "latency-taxed corpse" of legacy cloud. Running them together creates **Homeostasis**.
+The Aicent Stack is governed by **six indivisible RFC protocols**. Running them separately inherits the "latency-taxed corpse" of legacy cloud. Running them together creates **Homeostasis**.
 
 | Layer (RFC) | Module | Role | Repository |
 |:---|:---|:---|:---|
-| **Brain** [RFC-001] | [Aicent.com](http://aicent.com) | Sovereign Identity & Cognitive Scheduling | [**aicent**](https://github.com/Aicent-Stack/aicent) |
+| **Brain** [RFC-001] | [Aicent.com](http://aicent.com) | Sovereign Identity & Cognitive Orchestration | [**aicent**](https://github.com/Aicent-Stack/aicent) |
 | **Nerves** [RFC-002] | [RTTP.com](http://rttp.com) | Stateful Semantic Multicast & KV Sync | [**rttp**](https://github.com/Aicent-Stack/rttp) |
 | **Immunity** [RFC-003] | [RPKI.com](http://rpki.com) | Parallel Tensor Watermarking & Defense | [**rpki**](https://github.com/Aicent-Stack/rpki) |
 | **Blood** [RFC-004] | [ZCMK.com](http://zcmk.com) | Zero-Commission RTBA Settlement | [**zcmk**](https://github.com/Aicent-Stack/zcmk) |
 | **Body** [RFC-005] | [GTIOT.com](http://gtiot.com) | High-Fidelity Edge Fusion & Actuation | [**gtiot**](https://github.com/Aicent-Stack/gtiot) |
+| **Hive** [RFC-006] | [Aicent.net](https://aicent.net) | Global Operational Grid & Intelligence | [**manifesto**](https://github.com/Aicent-Stack/manifesto) |
 
 ---
 
