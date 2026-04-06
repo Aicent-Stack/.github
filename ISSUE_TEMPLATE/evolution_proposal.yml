@@ -1,0 +1,76 @@
+name: "🌀 Evolution Proposal (RFC Enhancement)"
+description: "Propose a protocol mutation, cognitive enhancement, or grid expansion."
+title: "[EVOLUTION]: <short description of the proposed mutation>"
+labels: ["Evolution", "RFC-Proposed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > *"Evolution is the persistent optimization of intent. Propose a mutation that strengthens the collective intelligence of the Hive."*
+  
+  - type: textarea
+    id: intent
+    attributes:
+      label: "Cognitive Intent (Summary)"
+      description: "What is the primary goal of this evolution? Why does the organism need this new trait?"
+      placeholder: "e.g., Implementing adaptive resonance for high-jitter orbital nodes..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: mapping
+    attributes:
+      label: "Domain Mapping"
+      description: "Which domain RFC is this evolution modifying or expanding?"
+      options:
+        - "RFC-001: Brain (Cognitive)"
+        - "RFC-002: Nerves (Transport)"
+        - "RFC-003: Immunity (Security)"
+        - "RFC-004: Blood (Metabolic)"
+        - "RFC-005: Body (Execution)"
+        - "RFC-006: Hive (Operational Grid)"
+        - "New Domain Proposal"
+    validations:
+      required: true
+
+  - type: textarea
+    id: spec
+    attributes:
+      label: "Technical Specification"
+      description: "Describe the changes at the bit-stream level. How does this affect the 64-byte Pulse Frame header?"
+      placeholder: "The new field 'resonance_offset' will occupy 4 bits of the reserved header space..."
+    validations:
+      required: true
+
+  - type: input
+    id: performance
+    attributes:
+      label: "Metabolic Impact"
+      description: "Does this evolution add more than +10µs to the sub-millisecond reflex arc?"
+      placeholder: "Estimated impact: +0.02µs (SIMD accelerated)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: "Strategic Case Study"
+      description: "Provide a scenario where this evolution provides a competitive advantage over legacy cloud infrastructure."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: compliance
+    attributes:
+      label: "Sovereignty Compliance"
+      options:
+        - label: "I certify that this evolution does not introduce a Middleman-Tax or Latency-Tax."
+          required: true
+        - label: "I have reviewed the [Genesis Manifesto](https://github.com/Aicent-Stack/manifesto) for philosophical alignment."
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        *The Architects of the Hive will audit this proposal for Homeostasis compatibility.*
