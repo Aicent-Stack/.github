@@ -12,7 +12,7 @@
 
 ---
 
-# CONTRIBUTING: The Pathway to Protection
+## CONTRIBUTING: The Pathway to Protection
 
 > *"To contribute is to propose a mutation. Only mutations that strengthen the Homeostasis of the organism are integrated into the neural spine."*
 
