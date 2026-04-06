@@ -1,0 +1,76 @@
+name: "🛡️ Pathogen Report (Anomaly Detection)"
+description: "Report a technical pathogen (bug), latency drift, or system anomaly."
+title: "[PATHOGEN]: <short description of the anomaly>"
+labels: ["Pathogen", "Immunity-Required"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > *"A pathogen detected is a pathogen neutralized. Provide the genetic signature of the anomaly to help the Hive restore Homeostasis."*
+  
+  - type: textarea
+    id: signature
+    attributes:
+      label: "Pathogen Signature (Description)"
+      description: "Describe the anomaly in detail. What is the deviation from the expected RFC behavior?"
+      placeholder: "e.g., RTTP Pulse Frame dropping under high-entropy conditions..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: domain
+    attributes:
+      label: "Affected Domain"
+      description: "Which part of the organism is experiencing the anomaly?"
+      options:
+        - "AICENT (The Brain)"
+        - "RTTP (The Nerves)"
+        - "RPKI (The Immunity)"
+        - "ZCMK (The Blood)"
+        - "GTIOT (The Body)"
+        - "AICENT-NET (The Hive)"
+    validations:
+      required: true
+
+  - type: input
+    id: latency
+    attributes:
+      label: "Latency Tax Impact"
+      description: "How many microseconds (µs) of delay does this pathogen introduce to the Reflex Arc?"
+      placeholder: "e.g., +150µs"
+    validations:
+      required: false
+
+  - type: textarea
+    id: replication
+    attributes:
+      label: "Replication Sequence"
+      description: "Provide the steps to reproduce the anomaly in the aicent-demo environment."
+      placeholder: "1. Clone aicent-demo\n2. Run cargo bin...\n3. Observe jitter..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Sentinel/Reflex Logs"
+      description: "Attach relevant logs from the Aicent Traffic Sentinel or GitHub Actions."
+      render: shell
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: attestation
+    attributes:
+      label: "Sovereign Attestation"
+      options:
+        - label: "I have verified that this is not a configuration error."
+          required: true
+        - label: "I acknowledge that submitting false pathogens may affect my AID reputation score."
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        *The Sentinel is observing this report. Integrity is the Law.*
