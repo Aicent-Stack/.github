@@ -52,7 +52,7 @@ Compliance with this Code of Conduct is not policed by a central committee, but 
 ## ⚖️ 4. Reporting Dissonance
 
 If you observe behavior that threatens the resonance of the Hive, emit a pulse to the Architects:
-- **Direct Pulse:** [conduct@aicent.com](mailto:conduct@aicent.com)
+- **Direct Pulse:** [lee@aicent.com](mailto:lee@aicent.com)
 - **Reflex:** All reports will be audited for intent and handled with the same sub-millisecond rigor as a technical bug.
 
 ---
