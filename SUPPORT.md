@@ -39,7 +39,7 @@ If you have detected a technical anomaly or latency drift:
 
 ### 🛡️ Sovereign Pulse (Encrypted Security)
 For vulnerabilities that threaten the integrity of the **RPKI Immunity** or **ZCMK Metabolism**:
-- **Channel:** Direct encrypted communication to **security@aicent.com**.
+- **Channel:** Direct encrypted communication to **lee@aicent.com**.
 - **Reflex:** Refer to our [SECURITY.md](https://github.com/Aicent-Stack/manifesto/blob/main/SECURITY.md) for full disclosure protocols.
 
 ---
