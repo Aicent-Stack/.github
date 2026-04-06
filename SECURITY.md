@@ -32,7 +32,7 @@ We only provide immunity support for the latest evolutionary branch. Older draft
 If you identify a logic flaw in the **RTTP** neural spine, a watermark bypass in **RPKI**, or a settlement exploit in **ZCMK**, you must trigger the **Sovereign Reporting Protocol**:
 
 1.  **Confidentiality:** Do not open a public issue. Security anomalies are treated as private reflexes until a patch is synchronized.
-2.  **Encrypted Pulse:** Submit a detailed report to **security@aicent.com**. 
+2.  **Encrypted Pulse:** Submit a detailed report to **lee@aicent.com**. 
 3.  **Signature Requirements:** Your report must include:
     - A technical description of the pathogen.
     - Evidence of the anomaly (e.g., a trace from the `aicent-demo` environment).
