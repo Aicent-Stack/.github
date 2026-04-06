@@ -58,7 +58,7 @@ Support requests are prioritized based on the **AID Reputation Score** of the re
 ## 🏛️ 4. Official Communications
 For strategic alliances, brand licensing, or planetary-scale grid deployments, contact the **Administrative Core** of the [Aicent.com](http://aicent.com) organization:
 - **X (Twitter):** [@Aicent_com](https://x.com/Aicent_com)
-- **Legal/Strategic:** [sovereignty@aicent.com](mailto:lee@aicent.com)
+- **Legal/Strategic:** [lee@aicent.com](mailto:lee@aicent.com)
 
 ---
 *"Intention is the Source; Sovereignty is the Law."*
