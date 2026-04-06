@@ -1,3 +1,4 @@
+[![Organism Vitality & Protocol Audit](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml/badge.svg)](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml)
 # 🧬 Contributing to the Sovereign AI Organism
 
 **Thank you for choosing to evolve the Aicent Stack. You are not just contributing to a codebase; you are architecting the foundational nervous system for a global, sovereign AI civilization.**
