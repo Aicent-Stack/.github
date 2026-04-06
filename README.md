@@ -1,3 +1,4 @@
+[![Organism Vitality & Protocol Audit](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml/badge.svg)](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml)
 # Aicent Stack Organizational Governance
 
 > *"Governance is the genetic code of the organism. This repository centralizes the institutional standards, automation workflows, and regulatory protocols for the Aicent Stack matrix."*
