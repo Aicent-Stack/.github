@@ -31,7 +31,7 @@ The Aicent Stack is governed by **six indivisible RFC protocols**. Running them 
 | **Immunity** [RFC-003] | [RPKI.com](http://rpki.com) | Parallel Tensor Watermarking & Defense | [**rpki**](https://github.com/Aicent-Stack/rpki) |
 | **Blood** [RFC-004] | [ZCMK.com](http://zcmk.com) | Zero-Commission RTBA Settlement | [**zcmk**](https://github.com/Aicent-Stack/zcmk) |
 | **Body** [RFC-005] | [GTIOT.com](http://gtiot.com) | High-Fidelity Edge Fusion & Actuation | [**gtiot**](https://github.com/Aicent-Stack/gtiot) |
-| **Hive** [RFC-006] | [Aicent.net](https://aicent.net) | Global Operational Grid & Intelligence | [**manifesto**](https://github.com/Aicent-Stack/manifesto) |
+| **Hive** [RFC-006] | [Aicent.net](http://aicent.net) | Global Operational Grid & Intelligence | [**manifesto**](https://github.com/Aicent-Stack/aicent-net)) |
 
 ---
 
