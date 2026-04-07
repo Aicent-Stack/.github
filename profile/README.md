@@ -26,6 +26,8 @@ The **Aicent Stack** is built on the principle of **Epoekie (Epiphytic Symbiosis
 - **Mutualistic Evolution:** We infuse the "dumb" physical world with high-frequency metabolism (**ZCMK**) and immune reflexes (**RPKI**), making the host infrastructure more valuable than ever before.
 - **Surface Sovereignty:** By controlling the **Protocol Surface**, Aicent manifests total autonomy over intent and action at a planetary scale.
 
+> *"Intention is the Source; Sovereignty is the Law. We do not compete for the ground; we claim the light."*
+
 ---
 
 ## 🧬 Biological Neural Map & Protocol Suite
