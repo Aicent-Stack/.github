@@ -19,7 +19,15 @@
 
 ![Aicent](https://github.com/user-attachments/assets/2955a732-1354-49a2-8a85-3d1a9169069d)
 
+## 🧩 The Epoekie Philosophy: Epiphytic Intelligence
+The **Aicent Stack** is built on the principle of **Epoekie (Epiphytic Symbiosis)**. Just as epiphytes grow upon a host plant to reach the light without harming its vitality, Aicent Stack inhabits the "surface" of the existing internet infrastructure.
+
+- **Substrate Mastery:** We repurpose legacy physical layers (Fiber, Satellite, 5G) as the host substrate for sub-millisecond AI cognition.
+- **Mutualistic Evolution:** We infuse the "dumb" physical world with high-frequency metabolism (**ZCMK**) and immune reflexes (**RPKI**), making the host infrastructure more valuable than ever before.
+- **Surface Sovereignty:** By controlling the **Protocol Surface**, Aicent manifests total autonomy over intent and action at a planetary scale.
+
 ---
+
 ## 🧬 Biological Neural Map & Protocol Suite
 
 The Aicent Stack is governed by **six indivisible RFC protocols**. Running them separately inherits the "latency-taxed corpse" of legacy cloud. Running them together creates **Homeostasis**.
