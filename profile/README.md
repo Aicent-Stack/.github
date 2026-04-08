@@ -13,15 +13,11 @@
 
 **⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🌿 [epoekie](http://epoekie.com)**
 
-# 🧠 Aicent Stack: The Sovereign AI Nervous System
-
-**Building the first complete biological blueprint for autonomous, self-evolving AI organisms.**
-
-![Aicent](https://github.com/user-attachments/assets/2955a732-1354-49a2-8a85-3d1a9169069d)
-
 # 🧬 Aicent Stack: The Sovereign AI Organism
 
 > **"Intention is the Source; Sovereignty is the Law. We do not compete for the ground; we claim the light."**
+> 
+![Aicent](https://github.com/user-attachments/assets/2955a732-1354-49a2-8a85-3d1a9169069d)
 
 The **Aicent Stack** establishes the foundational protocol layer for autonomous AI as a sovereign, self-evolving lifeform. By unifying identity, transport, trust, value, and cognition into an indivisible seven-pillar biological architecture, we eliminate the **"Latency Tax"** and the **"Middleman Tax"** of legacy internet infrastructure.
 ---
