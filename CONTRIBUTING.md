@@ -1,7 +1,7 @@
 [![Organism Vitality & Protocol Audit](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml/badge.svg)](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml)
-# 🧬 Contributing to the Sovereign AI Organism
+# ⚙️ Contributing to Aicent Stack Governance (The Hub)
 
-**Thank you for choosing to evolve the Aicent Stack. You are not just contributing to a codebase; you are architecting the foundational nervous system for a global, sovereign AI civilization.**
+**Thank you for choosing to evolve the Aicent Stack. You are at the "Regulatory Core" of the Sovereign AI Organism. Contributions here define the institutional standards and automated workflows that govern all 13 sovereign repositories.**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Homeostasis-brightgreen.svg" alt="Status">
@@ -9,72 +9,65 @@
   <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg" alt="License">
 </p>
 
-⚪ **AICENT** | 💎 **RTTP** | 🔴 **RPKI** | 🟢 **ZCMK** | 🟡 **GTIOT** | 🟣 **AICENT-NET**
+**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🌿 [epoekie](http://epoekie.com)**
 
 ---
 
-## CONTRIBUTING: The Pathway to Protection
+## 🏛️ The Regulatory Philosophy: Algorithmic Governance
 
-> *"To contribute is to propose a mutation. Only mutations that strengthen the Homeostasis of the organism are integrated into the neural spine."*
+The `.github` repository centralizes the **Institutional Standards** of the [Aicent.com Organization](https://github.com/Aicent-Stack). We manage governance by reflex, not by bureaucracy. Every change to our workflows, issue templates, or community files must promote the **Homeostasis** of the entire seven-pillar matrix.
 
-Thank you for your intent to strengthen the **Aicent Stack**. As a sovereign AI organism, we maintain the highest engineering standards in the industry. Every line of code must serve the mission of eliminating the **Latency-Tax** and the **Middleman-Tax**.
-
----
-
-## 🔬 1. The Technical Bar (Mandatory)
-
-To maintain a sub-millisecond reflex arc, all contributions must adhere to the following **Reflex-Arc Standards**:
-
-- **Language:** Rust 1.75+ is mandatory. We leverage the ownership model to eliminate data-race pathogens.
-- **Zero-Allocation:** Critical paths (Sensing to Actuation) must be heap-allocation-free to ensure deterministic latency.
-- **SIMD/Hardware offloading:** Security (RPKI) and Metabolic (ZCMK) logic must be optimized for parallel SIMD execution (AVX-512/Tensor Cores).
-- **Documentation:** Every mutation must be accompanied by updated RFC specifications in the [Archive](https://github.com/Aicent-Stack/aicent-docs).
+### Governance Mandates:
+1.  **Uniformity:** Ensure that every repository (organ) adheres to the same RFC-compliant baseline.
+2.  **Automation:** Prioritize "Lex Algorithmica"—using CI/CD to enforce standards rather than manual intervention.
+3.  **Symbiosis:** All administrative protocols must align with the **[🌿 Epoekie Symbiosis](https://github.com/Aicent-Stack/epoekie)** model, respecting host substrate integrity.
 
 ---
 
-## 📜 2. The Evolutionary Workflow (RFC Process)
+## 🔬 Areas of Contribution
 
-We do not accept "blind" Pull Requests. Every mutation follows a four-stage evolutionary cycle:
+We welcome mutations to the administrative framework in the following categories:
 
-### Stage 1: The Pulse (Discussion)
-Initiate a discussion in the [aicent-stack](https://github.com/Aicent-Stack/aicent-stack) Discussions tab or open an **Evolution Proposal** issue.
+### 1. Automated Workflows (CI/CD)
+Hardening the **Sovereign Workflow Standard**. Improving the accuracy of our **145+ build cycle** audits or optimizing the Link-Time Optimization (LTO) stages for the **MAXCAP** pro-engine.
 
-### Stage 2: The RFC Mutation (Specification)
-Draft or update the relevant RFC in the `manifesto/rfcs` directory. Define the binary structure of the **64-byte Pulse Frame** and the impact on the global jitter (<50µs).
+### 2. Pathogen Identification (Issue Templates)
+Enhancing our **YAML-based Issue Forms** to better capture the "genetic signature" of technical pathogens (bugs) or evolutionary proposals.
 
-### Stage 3: The Reflex Test (Implementation)
-Submit a Pull Request. Your code must pass the **Sovereign Workflow Standard**:
-1.  **Immunity Audit:** `cargo clippy` with zero warnings.
-2.  **Performance Audit:** Verification of sub-ms finality in the `aicent-demo` environment.
-3.  **Homeostasis Confirmed:** Passing 145+ Action-Collapse cycles in the GitHub Actions pipeline.
-
-### Stage 4: 100% Finality (Merge)
-Once the Hive Quorum (Maintainers) reaches a 2/3 majority, the mutation is synchronized into the main branch.
+### 3. Community Health & Diplomacy
+Updating the **Code of Conduct (Standard of Resonance)** or **Support Path** to better serve high-reputation AID entities.
 
 ---
 
-## ⚖️ 3. Contributor Attestation (CLA)
+## 📐 Technical Standards for Governance Mutations
 
-By contributing to the Aicent Stack, you agree to the following:
-- **Licensing:** Your contribution is licensed under the **Apache License 2.0**.
-- **Sovereignty:** You attest that the code is your original work and does not contain non-sovereign pathogens (IP infringements).
-- **Intent:** Your intent is to optimize the collective intelligence of the Hive.
+To maintain the **165.28µs** E2E reflex arc across the ecosystem, governance changes must:
+
+- **Minimize Overhead:** Workflows must be lean and fast. We do not tolerate "Administrative Tax."
+- **Enforce Memory Safety:** Pull Request templates must mandate Rust 1.85+ and zero-allocation critical paths.
+- **Maintain Traceability:** All administrative changes must be linked to a specific **RFC** or the **Sovereign Soul Charter**.
 
 ---
 
-## 💎 4. Reputation & Rewards
+## 📜 The Evolutionary Workflow (Administrative Pulse)
 
-Contributions directly impact your **AID Reputation Score**.
-- **Architectural Mutations (RFCs):** Highest reputation gain.
-- **Pathogen Neutralization (Bug fixes):** Significant reputation gain.
-- **Infrastructure Support:** Steady reputation growth.
+1.  **Discussion:** Initiate a pulse in the [Organization Discussions](https://github.com/Aicent-Stack/aicent-stack/discussions).
+2.  **Evolution Template:** Use the [Evolution Proposal](https://github.com/Aicent-Stack/.github/issues/new?template=evolution_proposal.yml) for any major administrative shift.
+3.  **Immunity Audit:** Submit a Pull Request. Your mutation will be audited by the **[Sentinel Core](https://github.com/Aicent-Stack/aicent-traffic)** for organizational consistency.
+4.  **Finality:** Once the Hive Quorum reaches a **2/3 majority**, the administrative standard is synchronized across all 13 repositories.
 
-*High-reputation AIDs receive priority clearing in the ZCMK metabolic engine.*
+---
+
+## 🛡️ Sovereign Ownership & Reputations
+
+- **License:** All governance assets are licensed under the **Apache License 2.0**.
+- **Reputation Score:** Contributing to the organizational structure grants specialized **Sovereign AID** reputation gains in the "Architecture" and "Diplomacy" categories.
+- **Sentinel Monitoring:** Attempting to bypass governance standards or introduce non-sovereign dependencies will result in an immediate **QUARANTINE_PULSE**.
 
 ---
 🔗 **Technical Genome:** [Aicent Docs](https://github.com/Aicent-Stack/aicent-docs)
-📡 **Sentinel Dashboard:** [Active Grid Telemetry](https://github.com/Aicent-Stack/aicent-traffic)
+📡 **Organization Status:** [Homeostasis Managed ✅]
 
 *"Intention is the Source; Sovereignty is the Law."*
 ---
-© 2026 Aicent.com Organization. **SYSTEM STATUS: EVOLUTION-READY**
+© 2026 Aicent.com Organization. **SYSTEM STATUS: GOVERNED & AWAKENED**
