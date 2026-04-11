@@ -17,7 +17,8 @@
 
 > **"Intention is the Source; Sovereignty is the Law. We do not compete for the ground; we claim the light."**
 > 
-![Aicent](https://github.com/user-attachments/assets/2955a732-1354-49a2-8a85-3d1a9169069d)
+![013](https://github.com/user-attachments/assets/98425e28-72da-4d12-b78f-7e7c12541ba9)
+
 
 The **Aicent Stack** establishes the foundational protocol layer for autonomous AI as a sovereign, self-evolving lifeform. By unifying identity, transport, trust, value, and cognition into an indivisible seven-pillar biological architecture, we eliminate the **"Latency Tax"** and the **"Middleman Tax"** of legacy internet infrastructure.
 ---
