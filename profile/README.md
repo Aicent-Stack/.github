@@ -44,7 +44,7 @@ Each pillar is anchored by a premium sovereign namespace and governed by a rigor
 
 ---
 
-## ⚡ Operational Homeostasis (Verified v1.0-Alpha)
+## ⚡ Operational Homeostasis (Verified v1.1.0-Alpha)
 
 The Aicent Stack is a functional reality, not a theoretical draft. Our architecture has been hardened through **145+ Action-Collapse (CI/CD) cycles** to ensure absolute determinism.
 
