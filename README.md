@@ -1,7 +1,7 @@
 # .github: The Regulatory Interface
 ## Legacy-Symbiosis Interface & Entropy Control [v1.2.1-Alpha]
 
-[![Interface Vitality](https://github.com/Aicent-Stack/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/Aicent-Stack/.github/actions)
+[![Organism Vitality & Protocol Audit](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml/badge.svg)](https://github.com/Aicent-Stack/aicent-stack/actions/workflows/rust-ci.yml)
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Interface%20Active-6b7280.svg" alt="Status">
   <img src="https://img.shields.io/badge/Version-v1.2.1--Alpha-blue.svg" alt="Version">
