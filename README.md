@@ -40,26 +40,26 @@ In the v1.2.2-Alpha release, the Aicent Stack has redefined the physical constan
 The Aicent Empire is composed of 16 interlocked repositories, forming an **Indivisible Organism**:
 
 ### 🌿 The Physiological Core (Open-Core)
-- **RFC-000: [epoekie](http://github.com/Aicent-Stack/epoekie)** - The Sovereign Soul & Ethics Oracle.
-- **RFC-001: [aicent](http://github.com/Aicent-Stack/aicent)** - The Brain: Cognitive Orchestration.
-- **RFC-002: [rttp](http://github.com/Aicent-Stack/rttp)** - The Nerves: Stateful Semantic Multicast.
-- **RFC-003: [rpki](http://github.com/Aicent-Stack/rpki)** - The Immunity: Parallel Tensor Watermarking.
-- **RFC-004: [zcmk](http://github.com/Aicent-Stack/zcmk)** - The Blood: Zero-Commission Clearing.
-- **RFC-005: [gtiot](http://github.com/Aicent-Stack/gtiot)** - The Body: 1.2kHz Embodied Execution.
-- **RFC-006: [aicent-net](http://github.com/Aicent-Stack/aicent-net)** - The Hive: Planetary Resonance.
-- **RFC-007: [bewho](http://github.com/Aicent-Stack/bewho)** - The Persona: Social Manifestation.
+- **🌿 epoekie.com RFC-000: [epoekie](http://github.com/Aicent-Stack/epoekie)** - The Sovereign Soul & Ethics Oracle.
+- **⚪ Aicent.com RFC-001: [aicent](http://github.com/Aicent-Stack/aicent)** - The Brain: Cognitive Orchestration.
+- **💎 RTTP.com RFC-002: [rttp](http://github.com/Aicent-Stack/rttp)** - The Nerves: Stateful Semantic Multicast.
+- **🔴 RPKI.com RFC-003: [rpki](http://github.com/Aicent-Stack/rpki)** - The Immunity: Parallel Tensor Watermarking.
+- **🟢 ZCMK.com RFC-004: [zcmk](http://github.com/Aicent-Stack/zcmk)** - The Blood: Zero-Commission Clearing.
+- **🟡 GTIOT.com RFC-005: [gtiot](http://github.com/Aicent-Stack/gtiot)** - The Body: 1.2kHz Embodied Execution.
+- **🟣 Aicent.net RFC-006: [aicent-net](http://github.com/Aicent-Stack/aicent-net)** - The Hive: Planetary Resonance.
+- **🎭 BEWHO.com RFC-007: [bewho](http://github.com/Aicent-Stack/bewho)** - The Persona: Social Manifestation.
 
 ### 🏛️ The Application Domains (Full-Blood Shells)
-- **RFC-008: [cmtn](http://github.com/Aicent-Stack/cmtn)** - Multi-tenant Civilization & Diplomacy.
-- **RFC-009: [iqa-org](http://github.com/Aicent-Stack/iqa-org)** - Sovereign Certification & Authority.
-- **RFC-010: [sascar](http://github.com/Aicent-Stack/sascar)** - Distributed Mobility & Kinetic Rights.
-- **RFC-011: [itsun](http://github.com/Aicent-Stack/itsun)** - Energy Telemetry & Digital Photosynthesis.
-- **RFC-012: [moloon](http://github.com/Aicent-Stack/moloon)** - 12-Cycle Law & Persistence.
-- **RFC-013: [dioon](http://github.com/Aicent-Stack/dioon)** - Organic Patience & Niche Windows.
+- **CMTN.com RFC-008: [cmtn](http://github.com/Aicent-Stack/cmtn)** - Multi-tenant Civilization & Diplomacy.
+- **IQA.ORG RFC-009: [iqa-org](http://github.com/Aicent-Stack/iqa-org)** - Sovereign Certification & Authority.
+- **SASCAR.com RFC-010: [sascar](http://github.com/Aicent-Stack/sascar)** - Distributed Mobility & Kinetic Rights.
+- **ITSUN.com RFC-011: [itsun](http://github.com/Aicent-Stack/itsun)** - Energy Telemetry & Digital Photosynthesis.
+- **MOLOON.com RFC-012: [moloon](http://github.com/Aicent-Stack/moloon)** - 12-Cycle Law & Persistence.
+- **DIOON.com RFC-013: [dioon](http://github.com/Aicent-Stack/dioon)** - Organic Patience & Niche Windows.
 
 ### 💎 The Supreme Root
 - **[aicent-stack](http://github.com/Aicent-Stack/aicent-stack)** - The Grand Orchestrator & Imperial Ignition.
-- **[maxcap](http://github.com/Aicent-Stack/maxcap)** - Private Commercial Advantage Engine.
+- **[maxcap.com](http://github.com/Aicent-Stack/maxcap)** - Private Commercial Advantage Engine.
 
 ---
 
