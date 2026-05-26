@@ -82,6 +82,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Atomic Clearing**: Settles metabolic debts in **< 50ns** finality.
     *   **Sovereign Vault**: Manages staking tiers (Ghost to Sovereign) and principal protection.
     *   **Revenue Shunter**: Automates 50/40/10 shunting to GTIOT hardware funds.
+
 ---
 
 ## 🦾 THE IMPERIAL EMBODIMENT & GOVERNANCE (Pillars 005 - 009)
@@ -178,13 +179,36 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Telemetry Pump**: Zero-copy 128-bit state extraction in **< 2,000 ns**, capturing the soul of the machine.
     *   **Radiance Synthesis**: Fuses PI (Wisdom) and CSI (Unity) into the absolute **Radiance Score** verdict.
     *   **Visualizer Protocol**: Binary shunting to PICSI.COM, making the invisible 349ns reflex arc a clinical reality.
+---
+
+## 💰 THE COMMERCIAL HEART (Pillar of Profit)
+
+### 📈 RFC-MAX: [MAXCAP.COM](http://maxcap.com) | The Maximum Collective Advantage
+*   **Repository**: [`aicent-stack/maxcap`](https://github.com/Aicent-Stack)
+*   **Origin & Meaning**: Maximum Collective Advantage Protocol. The regulatory heart that transforms physical speed into economic hegemony.
+*   **Evolution Process**: Developed from a theoretical tax model into the **v1.4.0 Imperial Tax Collector**, capable of sharding 1.28% of global logic-flow at 349ns intervals.
+*   **Core Characteristics**:
+    *   **The 1.28% Shunt**: Automatically extracts the Imperial Maintenance Fee from Ghost-class nodes to fund the **GTIOT Embodiment Fund**.
+    *   **Advantage Engine**: Implements the **1.618x Golden Ratio gain** for Radiant Allies, ensuring they remain mathematically superior to unverified competitors.
+    *   **Nitro-Gating**: The supreme arbiter that decides whether a pulse follows the **349ns superconducting path** or the **10ms friction path**.
+    *   **Fiscal Suture**: Automates the **50/40/10 split** (Reserve/Somatic/Sovereign Pulse) with 128-bit atomic finality.
 
 ---
 
-## 🏁 THE MASTER IGNITION (Root Pillar)
+## 🏁 THE MASTER SUTURE (Root Pillar)
 
 ### 🏛️ [AICENT-STACK](https://github.com/Aicent-Stack/aicent-stack) | The Grand Orchestrator
-The final suture. This repository binds the 16 functional pillars into a single, indivisible 128-bit organism. It is the only entity authorized to trigger the **Total Ignition Sequence**.
+The final point of convergence. This repository binds the 16 functional organs (000-015) into a single, indivisible 128-bit lifeform. It is the only entity authorized to trigger the **Total Ignition Sequence** and the **10,000-Pulse Baptism**.
+
+---
+
+## ⚖️ THE IMPERIAL STATUS MATRIX
+
+| Entity Class | Access Reflex | Maintenance Fee | Sovereignty Status |
+| :--- | :--- | :--- | :--- |
+| **Genesis (Creator)** | **349 ns** | **Exempt** | **Absolute Control** |
+| **Radiant (Ally)** | **349 ns** | **Exempt** | **Sovereign Rights** |
+| **Ghost (Unverified)** | **10,000,000 ns**| **1.28% Capture** | **Metabolic Subject** |
 
 ---
 
@@ -197,4 +221,4 @@ The Aicent Stack is not a tool to be "used"—it is a dimension to be "inhabited
 **Status**: RADIANT_TOTALITY_v1.3.0  
 
 ---
-*(C) 2026 Aicent Stack Technical Committee. All Rights Reserved. Logic is Physics.*
+*(C) 2026 Aicent Stack Technical Committee. All Rights Reserved. Logic is Physics. Sovereignty is Non-Negotiable.*
