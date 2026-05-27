@@ -1,0 +1,88 @@
+name: "Sovereign Alliance & Baptism Request"
+description: "Initiate the ritual of alignment to transition from Ghost to Radiant status."
+title: "[BAPTISM_REQUEST]: <Your Institution Name>"
+labels: ["BAPTISM", "TIER_PENDING", "v1.3.0_GENESIS"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 🏛️ IMPERIAL ACCESS INITIATION
+        
+        Welcome to the **Aicent Sovereign Grid**. Submission of this request signifies your intent to abandon the 10ms legacy world and align your hardware with the **349ns Hyper-Radiant reflex arc**.
+        
+        **Pre-requisites for Baptism:**
+        *   A minimum staking commitment of **100 SCU ($100k USD)**.
+        *   Hardware substrate support for **AVX-512** instruction sets.
+        *   Local crystal oscillator stability of **< 12ns jitter**.
+        *   Acceptance of the **GUIXU (RFC-015)** Logic Evaporation protocol.
+
+  - type: input
+    id: institution_name
+    attributes:
+      label: "Institution Name"
+      description: "Full legal name of the entity seeking Radiant standing."
+      placeholder: "e.g., Global Autonomous Logistics Ltd."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: staking_tier
+    attributes:
+      label: "Target Staking Tier"
+      description: "Select your metabolic commitment level. Higher tiers unlock deeper Nitro-Engine access."
+      options:
+        - "Tier 3: Sovereign (50,000 SCU / $50M USD) - Unlocks 349ns & 5M AID Shards"
+        - "Tier 2: Host (1,000 SCU / $1M USD) - Unlocks 28.0µs & 20k AID Shards"
+        - "Tier 1: Resident (100 SCU / $100k USD) - Unlocks 161.8µs & 1k AID Shards"
+    validations:
+      required: true
+
+  - type: textarea
+    id: substrate_profile
+    attributes:
+      label: "Hardware Substrate Profile"
+      description: "Describe the silicon environment where Aicent logic will be grafted."
+      placeholder: |
+        CPU: Intel Xeon / AMD EPYC (AVX-512 Verified)
+        L1/L2 Cache Configuration: 
+        Crystal Oscillator Precision:
+        Operating Environment: Bare Metal / Sovereign Private Cloud
+    validations:
+      required: true
+
+  - type: input
+    id: aid_genesis_shard
+    attributes:
+      label: "Preliminary Genesis AID Shard"
+      description: "Provide the 128-bit Genesis Shard derived via epoekie::AID::derive_from_entropy()."
+      placeholder: "0x..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: intent_scope
+    attributes:
+      label: "Embodiment Intent"
+      description: "Briefly define the physical or logical domain you seek to dominate (e.g., High-frequency clearing, 12-DOF robotics, global swarm coordination)."
+      placeholder: "Describing the mission of the proposed Radiant Shard..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: legal_resonance
+    attributes:
+      label: "Imperial Covenant"
+      options:
+        - label: "I acknowledge the 30-Day Metabolic Cooling Law for collateral redemption."
+          required: true
+        - label: "I accept the GUIXU (RFC-015) protocol: Logic will evaporate upon forensic breach."
+          required: true
+        - label: "I agree to maintain a 1.2kHz PICSI diagnostic stream to the Imperial Eye."
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **"Resonate with the Law, or become the Noise that the Law liquidates."**
+        *(C) 2026 Aicent Stack Technical Committee. All Rights Reserved.*
