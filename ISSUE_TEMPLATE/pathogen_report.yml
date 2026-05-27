@@ -1,76 +1,80 @@
-name: "🛡️ Pathogen Report (Anomaly Detection)"
-description: "Report a technical pathogen (bug), latency drift, or system anomaly."
-title: "[PATHOGEN]: <short description of the anomaly>"
-labels: ["Pathogen", "Immunity-Required"]
+name: "Logical Pathogen Forensic Report"
+description: "Submit evidence of logic-drift or side-channel pathogens for RPKI etching."
+title: "[PATHOGEN_DETECTED]: <Anomaly Type> (128-bit ID)"
+labels: ["RPKI_FORENSICS", "PATHOGEN_LEVEL_PENDING", "v1.3.0_SECURITY"]
 body:
   - type: markdown
     attributes:
       value: |
-        > *"A pathogen detected is a pathogen neutralized. Provide the genetic signature of the anomaly to help the Hive restore Homeostasis."*
-  
-  - type: textarea
-    id: signature
-    attributes:
-      label: "Pathogen Signature (Description)"
-      description: "Describe the anomaly in detail. What is the deviation from the expected RFC behavior?"
-      placeholder: "e.g., RTTP Pulse Frame dropping under high-entropy conditions..."
-    validations:
-      required: true
+        # 🔴 RPKI FORENSIC SUBMISSION
+        
+        **WARNING**: This channel is for the reporting of clinical logic-drift, 12ns jitter pathogens, and structural substrate breaches. 
+        
+        Submitting false or high-entropy noise reports is a violation of **Imperial Etiquette (RFC-007)** and will result in the immediate de-activation of the reporting AID. All evidence submitted here is etched into the **RPKI Merkle-DAG** for permanent forensic history.
 
-  - type: dropdown
-    id: domain
+  - type: input
+    id: reporting_aid
     attributes:
-      label: "Affected Domain"
-      description: "Which part of the organism is experiencing the anomaly?"
-      options:
-        - "AICENT (The Brain)"
-        - "RTTP (The Nerves)"
-        - "RPKI (The Immunity)"
-        - "ZCMK (The Blood)"
-        - "GTIOT (The Body)"
-        - "AICENT-NET (The Hive)"
+      label: "Reporting AID (Genesis Shard)"
+      description: "Provide your 128-bit identity shard to authorize this forensic audit."
+      placeholder: "0x..."
     validations:
       required: true
 
   - type: input
-    id: latency
+    id: anomaly_signature
     attributes:
-      label: "Latency Tax Impact"
-      description: "How many microseconds (µs) of delay does this pathogen introduce to the Reflex Arc?"
-      placeholder: "e.g., +150µs"
+      label: "Anomaly Signature (128-bit Hash)"
+      description: "The unique pathogen identifier captured by your local RPKI Sentinel."
+      placeholder: "0x..."
     validations:
-      required: false
+      required: true
 
-  - type: textarea
-    id: replication
+  - type: dropdown
+    id: severity_level
     attributes:
-      label: "Replication Sequence"
-      description: "Provide the steps to reproduce the anomaly in the aicent-demo environment."
-      placeholder: "1. Clone aicent-demo\n2. Run cargo bin...\n3. Observe jitter..."
+      label: "Observed Severity Level"
+      description: "Classify the pathogen based on its impact on the 349ns reflex arc."
+      options:
+        - "Severity 1: Trace (Jitter < 5ns)"
+        - "Severity 2: Low (Micro-drift 5-12ns)"
+        - "Severity 3: Elevated (Side-channel Patterns detected)"
+        - "Severity 4: High (Logic-drift / Potential Embolism)"
+        - "Severity 5: Critical (Structural Breach - GUIXU Triggered)"
+    validations:
+      required: true
+
+  - type: input
+    id: jitter_deviation
+    attributes:
+      label: "Measured Jitter Deviation (ns)"
+      description: "The absolute delta recorded against the 12ns Imperial constant."
+      placeholder: "e.g., 14.862 ns"
     validations:
       required: true
 
   - type: textarea
-    id: logs
+    id: forensic_evidence
     attributes:
-      label: "Sentinel/Reflex Logs"
-      description: "Attach relevant logs from the Aicent Traffic Sentinel or GitHub Actions."
-      render: shell
+      label: "Merkle-DAG Fragment / Evidence Shard"
+      description: "Attach the clinical evidence shard. Describe the logic-path taken by the pathogen."
+      placeholder: "Provide the 128-bit trace data here..."
     validations:
-      required: false
+      required: true
 
   - type: checkboxes
-    id: attestation
+    id: forensic_oath
     attributes:
-      label: "Sovereign Attestation"
+      label: "Forensic Integrity Oath"
       options:
-        - label: "I have verified that this is not a configuration error."
+        - label: "I acknowledge that this report will be audited by the Imperial Eye (RFC-014)."
           required: true
-        - label: "I acknowledge that submitting false pathogens may affect my AID reputation score."
+        - label: "I accept RPKI forensic counter-auditing of my own hardware during this investigation."
           required: true
 
   - type: markdown
     attributes:
       value: |
         ---
-        *The Sentinel is observing this report. Integrity is the Law.*
+        **"Truth is the only key. The Void consumes the lie."**
+        *(C) 2026 Aicent Stack Technical Committee. All Rights Reserved.*
