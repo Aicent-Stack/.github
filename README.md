@@ -111,7 +111,7 @@ The Empire recognizes no software conventions—only physical constants.
 *   **Meaning**: Planetary Infrastructure for Cognitive Status & Integrity.
 *   **Characteristics**: 1.2kHz real-time visual streaming of the total organism state.
 
-### 📈 RFC-MAX: [MAXCAP.COM](http://maxcap.com) | The Commercial Heart
+### 📈 AICENT-MAX: [MAXCAP.COM](http://maxcap.com) | The Commercial Heart
 *   **Repository**: [`maxcap`](https://github.com/Aicent-Stack)
 *   **Meaning**: Maximum Collective Advantage Protocol. The regulator of wealth.
 *   **Characteristics**: 1.28% maintenance shunting and **50/40/10 fiscal routing**.
