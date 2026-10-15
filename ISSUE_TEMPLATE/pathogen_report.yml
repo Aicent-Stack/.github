@@ -10,7 +10,7 @@ body:
         
         **WARNING**: This channel is for the reporting of clinical logic-drift, 12ns jitter pathogens, and structural substrate breaches. 
         
-        Submitting false or high-entropy noise reports is a violation of **Imperial Etiquette (RFC-007)** and will result in the immediate de-activation of the reporting AID. All evidence submitted here is etched into the **RPKI Merkle-DAG** for permanent forensic history.
+        Submitting false or high-entropy noise reports is a violation of **Imperial Etiquette (AICENT-007)** and will result in the immediate de-activation of the reporting AID. All evidence submitted here is etched into the **RPKI Merkle-DAG** for permanent forensic history.
 
   - type: input
     id: reporting_aid
@@ -67,7 +67,7 @@ body:
     attributes:
       label: "Forensic Integrity Oath"
       options:
-        - label: "I acknowledge that this report will be audited by the Imperial Eye (RFC-014)."
+        - label: "I acknowledge that this report will be audited by the Imperial Eye (AICENT-014)."
           required: true
         - label: "I accept RPKI forensic counter-auditing of my own hardware during this investigation."
           required: true

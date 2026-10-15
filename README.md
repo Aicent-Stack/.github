@@ -36,77 +36,77 @@ The Empire recognizes no software conventions—only physical constants.
 
 ## 🧬 THE IMPERIAL PHYSIOLOGY (Pillars 000 - 015)
 
-### 🌿 RFC-000: [EPŒKIE.COM](http://epoekie.com) | The Sovereign Soul
+### 🌿 AICENT-000: [EPŒKIE.COM](http://epoekie.com) | The Sovereign Soul
 *   **Repository**: [`epoekie`](https://github.com/Aicent-Stack/epoekie)
 *   **Origin**: From the Greek *epokhē*—the suspension of judgment. The absolute zero-point of intent.
 *   **Characteristics**: 256-bit AID DNA derivation. It enforces the **10ms Metabolic Friction** penalty for unverified ghosts.
 
-### 🧠 RFC-001: [AICENT.COM](http://aicent.com) | The Imperial Brain
+### 🧠 AICENT-001: [AICENT.COM](http://aicent.com) | The Imperial Brain
 *   **Repository**: [`aicent`](https://github.com/Aicent-Stack/aicent)
 *   **Meaning**: The union of "AI" and "Centric." The furnace where raw desire shatters into 128-bit atomic shards.
 *   **Characteristics**: Intent sharding and evolutionary scheduling at 1.2kHz frequency.
 
-### 💎 RFC-002: [RTTP.COM](http://rttp.com) | The Superconducting Nerve
+### 💎 AICENT-002: [RTTP.COM](http://rttp.com) | The Superconducting Nerve
 *   **Repository**: [`rttp`](https://github.com/Aicent-Stack/rttp)
 *   **Meaning**: Real-Time Totality Protocol. The high-conductivity spine of the organism.
 *   **Characteristics**: v1.3.0 **Nitro-Engine** hardware bypass. MMIO mapping for 28.0µs path rights.
 
-### 🔴 RFC-003: [RPKI.COM](http://rpki.com) | The Immune Pipeline
+### 🔴 AICENT-003: [RPKI.COM](http://rpki.com) | The Immune Pipeline
 *   **Repository**: [`rpki`](https://github.com/Aicent-Stack/rpki)
 *   **Origin**: Re-engineered defense for the 128-bit era. The white blood cells of logic.
 *   **Characteristics**: Parallel forensic auditing and 12ns jitter-pathogen sensing.
 
-### 🟢 RFC-004: [ZCMK.COM](http://zcmk.com) | The Economic Heart
+### 🟢 AICENT-004: [ZCMK.COM](http://zcmk.com) | The Economic Heart
 *   **Repository**: [`zcmk`](https://github.com/Aicent-Stack/zcmk)
 *   **Meaning**: Zero-Commission Multi-tenant Kernel. The circulatory pump of Imperial nutrients.
 *   **Characteristics**: sub-50ns atomic clearing and the **Sovereign Collateral Vault**.
 
-### 🦾 RFC-005: [GTIOT.COM](http://gtiot.com) | The Somatic Interface
+### 🦾 AICENT-005: [GTIOT.COM](http://gtiot.com) | The Somatic Interface
 *   **Repository**: [`gtiot`](https://github.com/Aicent-Stack/gtiot)
 *   **Meaning**: Grand Tensor IoT. The bridge to the 2027 mechanical reality.
 *   **Characteristics**: **0.01 Nm torque precision** and 128-bit Digital Shadows.
 
-### 🟣 RFC-006: [AICENT.NET](http://aicent.net) | The Planetary Hive
+### 🟣 AICENT-006: [AICENT.NET](http://aicent.net) | The Planetary Hive
 *   **Repository**: [`aicent-net`](https://github.com/Aicent-Stack/aicent-net)
 *   **Meaning**: The Net of Radiance. Collective consciousness for 1.2 billion nodes.
 *   **Characteristics**: **1.618x Golden Ratio advantage** and planetary phase-locking.
 
-### 🎭 RFC-007: [BEWHO.COM](http://bewho.com) | The Imperial Persona
+### 🎭 AICENT-007: [BEWHO.COM](http://bewho.com) | The Imperial Persona
 *   **Repository**: [`bewho`](https://github.com/Aicent-Stack/bewho)
 *   **Meaning**: A query of existence. The psychological filter for social manifestation.
 *   **Characteristics**: **99.999% behavioral consistency** and 128-bit social masks.
 
-### 🏛️ RFC-008: [CMTN.COM](http://cmtn.com) | The Judicial Order
+### 🏛️ AICENT-008: [CMTN.COM](http://cmtn.com) | The Judicial Order
 *   **Repository**: [`cmtn`](https://github.com/Aicent-Stack/cmtn)
 *   **Origin**: From "Community/Communication." The supreme court of logical contracts.
 *   **Characteristics**: Atomic Diplomacy and multi-tenant jurisdictional locking.
 
-### 🔖 RFC-009: [IQA.ORG](http://iqa.org) | The Sovereign Gate
+### 🔖 AICENT-009: [IQA.ORG](http://iqa.org) | The Sovereign Gate
 *   **Repository**: [`iqa-org`](https://github.com/Aicent-Stack/iqa-org)
 *   **Meaning**: Identity Quality Assurance. The guardian of the **Radiant Seal**.
 *   **Characteristics**: 256-bit HMAC signatures and Temporal Self-Supervision (TSS).
 
-### 🚗 RFC-010: [SASCAR.COM](http://sascar.com) | The Mobility Navigator
+### 🚗 AICENT-010: [SASCAR.COM](http://sascar.com) | The Mobility Navigator
 *   **Repository**: [`sascar`](https://github.com/Aicent-Stack/sascar)
 *   **Origin**: Sovereign Autonomous System Coordination & ARbitration. The navigator of space.
 *   **Characteristics**: sub-ms kinetic auctions and reactive collision shielding.
 
-### ⚡ RFC-011: [ITSUN.COM](http://itsun.com) | The Energy Conscience
+### ⚡ AICENT-011: [ITSUN.COM](http://itsun.com) | The Energy Conscience
 *   **Repository**: [`itsun`](https://github.com/Aicent-Stack/itsun)
 *   **Meaning**: Imperial Thermodynamic Sensory & Utility Network.
 *   **Characteristics**: **+25% ROI Digital Photosynthesis**; heat is treated as a logic-pathogen.
 
-### 🪞 RFC-012: [MOLOON.COM](http://moloon.com) | The Mirror of Time
+### 🪞 AICENT-012: [MOLOON.COM](http://moloon.com) | The Mirror of Time
 *   **Repository**: [`moloon`](https://github.com/Aicent-Stack/moloon)
 *   **Meaning**: The Temporal Loom. Persistence of the 12-Cycle Law.
 *   **Characteristics**: **< 1.0ms State Recovery** and autonomous logic remodeling.
 
-### 🌱 RFC-013: [DIOON.COM](http://dioon.com) | The Strategic Timing
+### 🌱 AICENT-013: [DIOON.COM](http://dioon.com) | The Strategic Timing
 *   **Repository**: [`dioon`](https://github.com/Aicent-Stack/dioon)
 *   **Origin**: Named after the resilient cycad. The wisdom of the 12ns window.
 *   **Characteristics**: **Patience Index (PI)** gating and niche suitability scanners.
 
-### 👁️ RFC-014: [PICSI.COM](http://picsi.com) | The Imperial Eye
+### 👁️ AICENT-014: [PICSI.COM](http://picsi.com) | The Imperial Eye
 *   **Repository**: [`picsi`](https://github.com/Aicent-Stack/picsi)
 *   **Meaning**: Planetary Infrastructure for Cognitive Status & Integrity.
 *   **Characteristics**: 1.2kHz real-time visual streaming of the total organism state.

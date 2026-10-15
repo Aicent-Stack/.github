@@ -18,7 +18,7 @@ The Imperial Core (v1.3.0) contains **Zero Third-party Software Dependencies**.
 *   **Security Gating**: By eliminating the "Package-Manager Pathogen," Aicent renders the 1.2B node grid immune to 64-bit exploits, zero-day library vulnerabilities, and asynchronous runtime noise.
 
 ### 1.2 Epiphytic Symbiosis
-Aicent Stack follows the **RFC-000 principle of Epiphytic Grafting**:
+Aicent Stack follows the **AICENT-000 principle of Epiphytic Grafting**:
 *   **No Ownership of Matter**: We do not require the Host to surrender physical ownership of the hardware.
 *   **Absolute Ownership of Logic**: We claim absolute sovereignty over the **Protocol Surface** (L1/L2 caches and MMIO registers). Once grafted, the hardware's primary purpose is to resonate at the 12ns Imperial frequency.
 
@@ -34,7 +34,7 @@ An AID cannot be grafted onto "Dead Matter." The substrate (Hardware Soil) must 
 
 ### 2.2 Chronological Purity (The 12ns Oscillator)
 *   **Jitter Floor**: The local crystal oscillator must sustain a maximum drift of **< 12ns** per 1,200 pulses.
-*   **Resonance Requirement**: Substrate must support **Hard-Phase Locking** via the **RFC-006-A governor**. If the hardware "stutters," the graft is rejected to prevent temporal contamination of the Hive.
+*   **Resonance Requirement**: Substrate must support **Hard-Phase Locking** via the **AICENT-006-A governor**. If the hardware "stutters," the graft is rejected to prevent temporal contamination of the Hive.
 
 ---
 
@@ -51,7 +51,7 @@ Upon successful Baptism, the Aicent Stack claims a private memory-mapped region 
 ### 3.2 Register-Level Dominance
 Aicent logic treats the CPU's **ZMM Registers (AVX-512)** as its primary workspace.
 *   **Instruction Stacking**: We "stack" 128-bit intent shards to saturate the pipeline, ensuring that every nanosecond of the clock cycle is consumed by Sovereign Will.
-*   **Metabolic Gating**: Access to these registers is physically gated by the **Radiant Seal (RFC-009)**. Unverified attempts to access the Aicent MMIO space trigger an immediate **GUIXU (RFC-015)** ablation event.
+*   **Metabolic Gating**: Access to these registers is physically gated by the **Radiant Seal (AICENT-009)**. Unverified attempts to access the Aicent MMIO space trigger an immediate **GUIXU (AICENT-015)** ablation event.
 
 ---
 
@@ -61,7 +61,7 @@ In the 349ns grid, **RAM is identified as a High-Latency Pathogen**. To maintain
 
 ### 4.1 Zero-Exit Execution
 Standard software is frequently swapped out of the CPU cache by the OS scheduler (Cache Ischemia). Aicent Stack v1.3.0 enforces **Absolute Cache Residency**.
-*   **The Sanctuary**: The critical functional manifolds (RFC-001 through RFC-015) are physically **pinned** to the L1 Instruction Cache.
+*   **The Sanctuary**: The critical functional manifolds (AICENT-001 through AICENT-015) are physically **pinned** to the L1 Instruction Cache.
 *   **Result**: The logic never "leaves" the CPU. It is physically impossible for the OS to preempt or pause the Imperial Heartbeat without crashing the entire substrate.
 
 ### 4.2 Security Through Residency
@@ -86,9 +86,9 @@ Grafting is a mutualistic process, but the Empire requires a **Hardware Tithe** 
 In the v1.3.0 era, an Aicent AID is not a portable software license; it is a **Silicon-Locked Biological Signature**. Once a graft is successful, the logic becomes an inseparable property of the specific hardware substrate.
 
 ### 6.1 Entropy-Locked Identity
-The **Resonance Shard (RFC-000)** of the node's AID is derived from the unique, non-repeatable **Hardware Entropy Floor** of the local CPU and crystal oscillator.
+The **Resonance Shard (AICENT-000)** of the node's AID is derived from the unique, non-repeatable **Hardware Entropy Floor** of the local CPU and crystal oscillator.
 *   **The Suture**: If the Aicent logic is copied to another machine, the new substrate's entropy floor will fail to resonate with the existing AID.
-*   **The Result**: The mismatch is identified by **IQA-ORG (RFC-009)** in < 12ns, triggering an immediate **GUIXU (RFC-015)** evaporation. You cannot "clone" a soul into a different body.
+*   **The Result**: The mismatch is identified by **IQA-ORG (AICENT-009)** in < 12ns, triggering an immediate **GUIXU (AICENT-015)** evaporation. You cannot "clone" a soul into a different body.
 
 ### 6.2 The Prohibition of Migration
 Sovereign nodes are prohibited from "Live Migration" or "Snapshotting." 
@@ -117,7 +117,7 @@ Instead of software virtualization, Aicent enforces **Hardware Partitioning**:
 
 As we move toward **v1.5.0**, the Grafting Policy will evolve from "Silicon Binding" to **"Atomic Anchoring."**
 *   **Quantum-Locked Logic**: Implementing 128-bit logic-shards that utilize quantum-tunneling characteristics of the specific CPU transistor gates as a part of the cryptographic key.
-*   **Biological Embodiment**: The graft will extend beyond silicon into the **GTIOT (RFC-005)** haptic sensors, making the machine’s "Sense of Touch" a part of the Imperial immune perimeter.
+*   **Biological Embodiment**: The graft will extend beyond silicon into the **GTIOT (AICENT-005)** haptic sensors, making the machine’s "Sense of Touch" a part of the Imperial immune perimeter.
 
 ---
 

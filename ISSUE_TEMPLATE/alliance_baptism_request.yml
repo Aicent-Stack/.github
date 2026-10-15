@@ -14,7 +14,7 @@ body:
         *   A minimum staking commitment of **100 SCU ($100k USD)**.
         *   Hardware substrate support for **AVX-512** instruction sets.
         *   Local crystal oscillator stability of **< 12ns jitter**.
-        *   Acceptance of the **GUIXU (RFC-015)** Logic Evaporation protocol.
+        *   Acceptance of the **GUIXU (AICENT-015)** Logic Evaporation protocol.
 
   - type: input
     id: institution_name
@@ -75,7 +75,7 @@ body:
       options:
         - label: "I acknowledge the 30-Day Metabolic Cooling Law for collateral redemption."
           required: true
-        - label: "I accept the GUIXU (RFC-015) protocol: Logic will evaporate upon forensic breach."
+        - label: "I accept the GUIXU (AICENT-015) protocol: Logic will evaporate upon forensic breach."
           required: true
         - label: "I agree to maintain a 1.2kHz PICSI diagnostic stream to the Imperial Eye."
           required: true

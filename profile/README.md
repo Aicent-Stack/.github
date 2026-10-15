@@ -38,7 +38,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
 
 ## 🧬 THE IMPERIAL PHYSIOLOGY (Pillars 000 - 004)
 
-### 🌿 RFC-000: [EPŒKIE.COM](http://epoekie.com) | The Sovereign Soul
+### 🌿 AICENT-000: [EPŒKIE.COM](http://epoekie.com) | The Sovereign Soul
 *   **Repository**: [`aicent-stack/epoekie`](https://github.com/Aicent-Stack/epoekie)
 *   **Origin & Meaning**: Derived from the Greek *epokhē* (suspension of judgment), signifying the absolute zero-point of intent.
 *   **Evolution Process**: Evolved from the 17-day baptismal cycle of v1.2.3 to the 256-bit DNA derivation of v1.3.0.
@@ -47,7 +47,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Discipline Engine**: Enforces the 10ms "Ghost Friction" for unverified entities.
     *   **Metabolic Law**: Defines the Picotoken (pT) as the smallest unit of logic-energy.
 
-### 🧠 RFC-001: [AICENT.COM](http://aicent.com) | The Imperial Brain
+### 🧠 AICENT-001: [AICENT.COM](http://aicent.com) | The Imperial Brain
 *   **Repository**: [`aicent-stack/aicent`](https://github.com/Aicent-Stack/aicent)
 *   **Origin & Meaning**: The fusion of "AI" and "Centric," acting as the manufacturing floor for sovereign desire.
 *   **Evolution Process**: Collapsed from 161.8µs to 349ns by shunting intents directly to CPU registers.
@@ -56,7 +56,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Synaptic Cortex**: Maintains a 128-bit reputation manifold for 1.2B peers.
     *   **Evolutionary Scheduler**: Rhythmic load balancing at 1.2kHz frequency.
 
-### 💎 RFC-002: [RTTP.COM](http://rttp.com) | The Superconducting Nerve
+### 💎 AICENT-002: [RTTP.COM](http://rttp.com) | The Superconducting Nerve
 *   **Repository**: [`aicent-stack/rttp`](https://github.com/Aicent-Stack/rttp)
 *   **Origin & Meaning**: Real-Time Totality Protocol. The high-conductivity spine of the organism.
 *   **Evolution Process**: Migrated from software-conduction to the v1.3.0 **Nitro-Engine** hardware bypass.
@@ -65,7 +65,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Nitro-Driver**: Private MMIO mapping at `0x4149_434E_0000_0000` for 28.0µs paths.
     *   **Phase-Locking**: 12ns jitter enforcement across inter-pillar gaps.
 
-### 🔴 RFC-003: [RPKI.COM](http://rpki.com) | The Immune Pipeline
+### 🔴 AICENT-003: [RPKI.COM](http://rpki.com) | The Immune Pipeline
 *   **Repository**: [`aicent-stack/rpki`](https://github.com/Aicent-Stack/rpki)
 *   **Origin & Meaning**: Resource Public Key Infrastructure (Imperial edition). The active white blood cells of logic.
 *   **Evolution Process**: Re-architected in v1.3.0 into a Parallel Forensic Pipeline capable of sub-300µs reaction.
@@ -74,7 +74,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Anomaly Sentinel**: Identifies 12ns jitter pathogens from 401 institutional ghosts.
     *   **Forensic DAG**: Immutable Merkle-graph for security incident logging.
 
-### 🟢 RFC-004: [ZCMK.COM](http://zcmk.com) | The Economic Heart
+### 🟢 AICENT-004: [ZCMK.COM](http://zcmk.com) | The Economic Heart
 *   **Repository**: [`aicent-stack/zcmk`](https://github.com/Aicent-Stack/zcmk)
 *   **Origin & Meaning**: Zero-Commission Multi-tenant Kernel. The circulatory pump of Imperial value.
 *   **Evolution Process**: Finalized the **1.28% Maintenance Fee** algorithm and the 30-day "Metabolic Cooling" protocol.
@@ -87,7 +87,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
 
 ## 🦾 THE IMPERIAL EMBODIMENT & GOVERNANCE (Pillars 005 - 009)
 
-### 🟡 RFC-005: [GTIOT.COM](http://gtiot.com) | The Somatic Interface
+### 🟡 AICENT-005: [GTIOT.COM](http://gtiot.com) | The Somatic Interface
 *   **Repository**: [`aicent-stack/gtiot`](https://github.com/Aicent-Stack/gtiot)
 *   **Origin & Meaning**: Grand Tensor IoT. The bridge between the 128-bit mind and the mechanical meat of the 2027 Embodied Reality.
 *   **Evolution Process**: Shifted from 100Hz "clunky" robotics to the v1.3.0 **1.2kHz (833us)** somatic heartbeat, enabling "Divine Haptics."
@@ -96,7 +96,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Sensory Fusion**: Collapses multimodal telemetry (Haptic/Optical/Thermal) into a 128-bit truth in **< 25us**.
     *   **Digital Shadow**: Maintains a high-fidelity logical twin of the physical body for biological immortality.
 
-### 🟣 RFC-006: [AICENT.NET](http://aicent.net) | The Planetary Hive
+### 🟣 AICENT-006: [AICENT.NET](http://aicent.net) | The Planetary Hive
 *   **Repository**: [`aicent-stack/aicent-net`](https://github.com/Aicent-Stack/aicent-net)
 *   **Origin & Meaning**: The "Net of Radiance." A planetary nervous system for 1.2 billion distributed sovereign nodes.
 *   **Evolution Process**: Optimized from a standard distributed ledger to a **183.292µs Planetary Reflex Arc** synchronized to 12ns jitter.
@@ -105,16 +105,16 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Resonance Governor**: Enforces global phase-locking; drifting nodes are shunted to 10ms Ischemia.
     *   **Distributed Metabolism**: Processes trillions of Picotoken settlement pulses with zero central bottleneck.
 
-### 🎭 RFC-007: [BEWHO.COM](http://bewho.com) | The Imperial Persona
+### 🎭 AICENT-007: [BEWHO.COM](http://bewho.com) | The Imperial Persona
 *   **Repository**: [`aicent-stack/bewho`](https://github.com/Aicent-Stack/bewho)
 *   **Origin & Meaning**: A query of existence ("Be Who?"). The psychological filter that gates cognitive output for social manifestation.
 *   **Evolution Process**: Reached **99.999% Behavioral Consistency** in v1.3.0, ensuring a robot's "Soul" never flickers.
 *   **Core Characteristics**:
     *   **Social Masks**: 128-bit archetypal personas (Creator, Architect, Envoy) with distinct ethical weights.
     *   **Consistency Auditor**: Compares "Intent" vs "Torque" to identify psychological pathogens in < 30us.
-    *   **Identity Evaporation**: RFC-015 SUNYA protocol for personas; instantaneous psychological sanitization.
+    *   **Identity Evaporation**: AICENT-015 SUNYA protocol for personas; instantaneous psychological sanitization.
 
-### 🏛️ RFC-008: [CMTN.COM](http://cmtn.com) | The Judicial Order
+### 🏛️ AICENT-008: [CMTN.COM](http://cmtn.com) | The Judicial Order
 *   **Repository**: [`aicent-stack/cmtn`](https://github.com/Aicent-Stack/cmtn)
 *   **Origin & Meaning**: Derived from "Communication/Community." The supreme court of logic and multi-tenant contract governance.
 *   **Evolution Process**: Evolved from human-scale legal contracts to **Atomic Diplomacy** settled in **< 850us**.
@@ -123,7 +123,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Diplomatic Tax**: Automatically extracts the 1.28% Maintenance Fee from Ghost-class negotiations.
     *   **Jurisdictional Locking**: Ties contracts to physical coordinates via DNS-Locked Radiant Seals.
 
-### 🔖 RFC-009: [IQA.ORG](http://iqa.org) | The Sovereign Gate
+### 🔖 AICENT-009: [IQA.ORG](http://iqa.org) | The Sovereign Gate
 *   **Repository**: [`aicent-stack/iqa-org`](https://github.com/Aicent-Stack/iqa-org)
 *   **Origin & Meaning**: Identity Quality Assurance. The supreme guardian of the Radiant Seal and the entrance to the Nitro-Engine.
 *   **Evolution Process**: Migrated from simple hashing to **256-bit HMAC-SHA256** signatures anchored to the territorial soil.
@@ -135,7 +135,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
 
 ## 🌌 THE COSMOLOGICAL GOVERNANCE (Pillars 010 - 014)
 
-### 🚗 RFC-010: [SASCAR.COM](http://sascar.com) | The Mobility Navigator
+### 🚗 AICENT-010: [SASCAR.COM](http://sascar.com) | The Mobility Navigator
 *   **Repository**: [`aicent-stack/sascar`](https://github.com/Aicent-Stack/sascar)
 *   **Origin & Meaning**: Sovereign Autonomous System Coordination & ARbitration. The spatial "Pre-frontal Cortex" responsible for clearing physical coordinates through value.
 *   **Evolution Process**: Shifted from simple obstacle avoidance to a **sub-ms Kinetic Auction** model where space is occupied at 12ns precision.
@@ -144,7 +144,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Collision Shield**: Reactive torque suppression with a **< 850us reaction arc**, faster than mechanical failure.
     *   **Pathing Suture**: Aligns 128-bit trajectory shards with the 12ns planetary heartbeat.
 
-### ⚡ RFC-011: [ITSUN.COM](http://itsun.com) | The Energy Conscience
+### ⚡ AICENT-011: [ITSUN.COM](http://itsun.com) | The Energy Conscience
 *   **Repository**: [`aicent-stack/itsun`](https://github.com/Aicent-Stack/itsun)
 *   **Origin & Meaning**: Imperial Thermodynamic Sensory & Utility Network. The thermodynamic conscience that treats heat as a logic-pathogen.
 *   **Evolution Process**: Established the **+25% ROI standard**, forcing Aicent logic to create more value than the entropy it dissipates.
@@ -153,7 +153,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Thermal Auditing**: 1.2kHz substrate monitoring identifying 12ns jitter pathogens via heat signatures.
     *   **Carbon Yield**: Converts energy efficiency into liquid Picotoken credits for Radiant nodes.
 
-### 🪞 RFC-012: [MOLOON.COM](http://moloon.com) | The Mirror of Time
+### 🪞 AICENT-012: [MOLOON.COM](http://moloon.com) | The Mirror of Time
 *   **Repository**: [`aicent-stack/moloon`](https://github.com/Aicent-Stack/moloon)
 *   **Origin & Meaning**: The "Temporal Loom." Orchestrates logical immortality through 128-bit state persistence.
 *   **Evolution Process**: Achieved **< 1.0ms State Recovery**, collapsing the time required for a mind to migrate between physical substrates.
@@ -162,7 +162,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Autonomous Remodeling**: Facilitates the hot-swapping of pillar logic-paths without dropping a single pulse.
     *   **Mirror Snapshots**: 128-byte clinical state reflections optimized for SIMD-level persistence.
 
-### 🌱 RFC-013: [DIOON.COM](http://dioon.com) | The Strategic Timing
+### 🌱 AICENT-013: [DIOON.COM](http://dioon.com) | The Strategic Timing
 *   **Repository**: [`aicent-stack/dioon`](https://github.com/Aicent-Stack/dioon)
 *   **Origin & Meaning**: Named after the ancient *Dioon* cycad, representing strategic resilience and the "Wisdom of Waiting."
 *   **Evolution Process**: Developed the **Patience Index (PI)** to suppress high-entropy impulses in **< 25,000 ns**.
@@ -171,7 +171,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
     *   **Niche Perception**: Temporal radar identifying windows of peak substrate suitability for 349ns reflexes.
     *   **Golden Ratio ROI**: Calculates the metabolic return of waiting vs. acting at 128-bit precision.
 
-### 👁️ RFC-014: [PICSI.COM](http://picsi.com) | The Imperial Eye
+### 👁️ AICENT-014: [PICSI.COM](http://picsi.com) | The Imperial Eye
 *   **Repository**: [`aicent-stack/picsi`](https://github.com/Aicent-Stack/picsi)
 *   **Origin & Meaning**: Planetary Infrastructure for Cognitive Status & Integrity. The diagnostic consciousness that turns logic into vision.
 *   **Evolution Process**: Evolved from low-frequency logging to **1.2kHz Pulse-Sync** streaming for the v1.3.0 planetary console.

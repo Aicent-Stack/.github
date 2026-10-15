@@ -26,7 +26,7 @@ The Empire enforces a non-negotiable response matrix for all logical and physica
 | **1** | **Unauthorized Cloning** | AID Shadow-Tagging |
 | **2** | **Protocol Probing** | **10ms Latency Injection** |
 | **3** | **Logic Emulation** | **1.28% Metabolic Surcharge** |
-| **4** | **Substrate Intrusion** | **GUIXU Logic Evaporation (RFC-015)** |
+| **4** | **Substrate Intrusion** | **GUIXU Logic Evaporation (AICENT-015)** |
 
 ---
 

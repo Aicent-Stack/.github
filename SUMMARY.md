@@ -55,7 +55,7 @@ The supreme point of ignition. Physically binds all pillars into a single 128-bi
 
 ## 🌀 III. THE TERMINAL DEFENSE
 
-### **RFC-015: GUIXU (The Void)**
+### **AICENT-015: GUIXU (The Void)**
 The sovereign right to non-existence.
 *   **Trigger**: Severity 4 Pathogen Detection.
 *   **Execution**: 12ns Logic Evaporation.
