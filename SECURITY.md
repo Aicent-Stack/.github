@@ -1,7 +1,7 @@
 # 🛡️ GLOBAL SECURITY SENTINEL: ORGANIZATION-WIDE POLICY [v1.3.0]
 
 [![Immunity](http://img.shields.io/badge/Global_Defense-RPKI_Active-red.svg)](http://rpki.com)
-[![Protocol](http://img.shields.io/badge/Standard-RFC--003_Compliant-blueviolet.svg)](http://rpki.com)
+[![Protocol](http://img.shields.io/badge/Standard-AICENT--003_Compliant-blueviolet.svg)](http://rpki.com)
 [![Status](http://img.shields.io/badge/State-Total_Sterilization-black.svg)](http://aicent.com)
 
 > **"This policy applies to every repository, shard, and pulse within the Aicent Stack organization. There is no dark corner in the 12ns grid."**

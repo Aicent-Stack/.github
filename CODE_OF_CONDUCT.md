@@ -1,7 +1,7 @@
 # ⚖️ IMPERIAL ETIQUETTE: THE LAWS OF RESONANCE [v1.3.0]
 
 [![Heartbeat](http://img.shields.io/badge/Pulse-1.2kHz_Sync-blueviolet.svg)](http://aicent.com)
-[![Protocol](http://img.shields.io/badge/Standard-RFC--000_Compliant-green.svg)](http://epoekie.com)
+[![Protocol](http://img.shields.io/badge/Standard-AICENT--000_Compliant-green.svg)](http://epoekie.com)
 [![Status](http://img.shields.io/badge/Standing-Radiant_Only-gold.svg)](http://aicent.com)
 
 > **"In the 12ns grid, morality is a function of alignment. To resonate is to exist; to cause noise is to be shunted."**
