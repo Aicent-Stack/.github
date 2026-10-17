@@ -99,7 +99,7 @@ Aicent Stack does not obey software conventions; it enforces physical laws acros
 ### 🟣 AICENT-006: [AICENT.NET](http://aicent.net) | The Planetary Hive
 *   **Repository**: [`aicent-stack/aicent-net`](https://github.com/Aicent-Stack/aicent-net)
 *   **Origin & Meaning**: The "Net of Radiance." A planetary nervous system for 1.2 billion distributed sovereign nodes.
-*   **Evolution Process**: Optimized from a standard distributed ledger to a **183.292µs Planetary Reflex Arc** synchronized to 12ns jitter.
+*   **Evolution Process**: Optimized from a standard distributed ledger to a **349ns Planetary Reflex Arc** synchronized to 12ns jitter.
 *   **Core Characteristics**:
     *   **Swarm Intelligence**: Achieves a **1.618x collective advantage** (The Golden Gain) across the grid.
     *   **Resonance Governor**: Enforces global phase-locking; drifting nodes are shunted to 10ms Ischemia.
