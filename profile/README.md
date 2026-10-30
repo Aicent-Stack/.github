@@ -1,224 +1,122 @@
-# 🏛️ AICENT STACK: THE SUPREME ORCHESTRATOR
+# Aicent Stack
 
-[![Imperial Heartbeat](http://img.shields.io/badge/Pulse-349ns_Verified-blueviolet.svg)](http://aicent.com)
-[![Version](http://img.shields.io/badge/Version-v1.3.0--Alpha_Genesis-blue.svg)](http://aicent.com)
-[![Precision](http://img.shields.io/badge/Precision-128--Bit_Absolute-gold.svg)](http://aicent.com)
-[![Observation](http://img.shields.io/badge/Vision-PICSI.COM_Active-brightgreen.svg)](http://picsi.com)
-[![Jitter](http://img.shields.io/badge/Clock_Jitter-12ns-red.svg)](http://aicent.com)
-[![Authority](http://img.shields.io/badge/Supervision-AICENT--009_Active-84cc16.svg)](http://iqa.org)
+GitHub organization of the **RTTP & IQA** protocol line — derived intent addressing and offline-verifiable attestation for autonomous agents.
 
-> **"This is not infrastructure for intelligence. This is intelligence itself."**
-
-**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI](http://picsi.com)**
+Maintained as the standard-parts line of the **RTTP & IQA Organization** (standard-institution name; "Aicent Stack" is the community name for the same work).
 
 ---
 
-## 📢 THE GENESIS SINGULARITY [v1.3.0]
+## The two pillars
 
-As of **May 25, 2026**, Aicent Stack has achieved the **Physical Singularity**. By collapsing the Reflex Arc to **349 nanoseconds (0.349µs)**, we have officially moved beyond the constraints of human-scale software. 
+### RTTP — Resonant Time Transfer Protocol (WHERE + WHEN)
 
-**V1.2.5** stands as the final monument to the Open-Source Era.  
-**V1.3.0** marks the beginning of the **Sovereign Private Era**.
+RTTP answers *where an agent is reachable* and *until when that answer holds*. An address is not assigned; it is **derived**:
 
-The Empire is no longer "running" code; it is vibrating at the frequency of the substrate. The 17 pillars are now physically sutured into a single, indivisible 128-bit organism.
+```
+rttp://<intent>.<pillar>.<root>/<action>
+```
 
----
+- The route shard is `SHA-256(ASCII(canonical_authority))[:16]` — pure computation, no registry, no resolver, no network round-trip.
+- Names are hashes; **attestation vouches**. The scheme never asserts who is trustworthy — it makes claims *checkable*.
+- Malformed input is **rejected, not normalized**: a case variant is a different string, not a spelling difference. No fallback transport, no `rttps`.
+- The wire format is a fixed **128-byte pulse header** (`PulseHeader128`), extension-block backward compatible.
 
-## ⚖️ THE THREE SACRED LAWS OF PHYSICS-LOGIC
+### IQA — Identity Quality Assurance (WHETHER)
 
-Aicent Stack does not obey software conventions; it enforces physical laws across its 1.2 billion node grid.
+IQA answers *whether a claim is currently trustworthy*. It carries signed, **leased** state in a fixed-layout envelope:
 
-<img width="1788" height="816" alt="2026-05-25_223200_971" src="https://github.com/user-attachments/assets/f98c2698-8806-494e-acf1-b99517e43e4c" />
+- **AE-128 envelope**: a 128-byte, fully specified frame — algorithm, lease expiry, shard, attestation, organ, nonce, standing.
+- **Standing is a closed set** carried in one octet; verdicts are **organ-relative and do not transfer**.
+- **Offline by construction**: a verifier needs only the envelope bytes — no key directory, no issuer, no callback. Expired is answered as expired, **fail closed**.
+- Leases make trust *temporal*: freshness is part of the artifact, not a side-channel promise.
 
-1.  **The Law of the Reflex (349ns)**: Logic must move faster than the substrate's heat. Legacy 10ms systems are fossils.
-2.  **The Law of the Jitter (12ns)**: Time is the only anchor. Every pulse is locked to the 12ns rising edge of the planetary clock.
-3.  **The Law of Metabolism (1.28%)**: Wealth is kinetic energy. Efficiency is rewarded; entropy is taxed.
+The two are deliberately separate: derivation is not identity, and a proof of identity is not an authorization. Conflating them is the design error this line exists to prevent.
 
----
-
-## 🧬 THE IMPERIAL PHYSIOLOGY (Pillars 000 - 004)
-
-### 🌿 AICENT-000: [EPŒKIE.COM](http://epoekie.com) | The Sovereign Soul
-*   **Repository**: [`aicent-stack/epoekie`](https://github.com/Aicent-Stack/epoekie)
-*   **Origin & Meaning**: Derived from the Greek *epokhē* (suspension of judgment), signifying the absolute zero-point of intent.
-*   **Evolution Process**: Evolved from the 17-day baptismal cycle of v1.2.3 to the 256-bit DNA derivation of v1.3.0.
-*   **Core Characteristics**:
-    *   **AID (Aicent Identity)**: 256-bit dual-shard identity DNA.
-    *   **Discipline Engine**: Enforces the 10ms "Ghost Friction" for unverified entities.
-    *   **Metabolic Law**: Defines the Picotoken (pT) as the smallest unit of logic-energy.
-
-### 🧠 AICENT-001: [AICENT.COM](http://aicent.com) | The Imperial Brain
-*   **Repository**: [`aicent-stack/aicent`](https://github.com/Aicent-Stack/aicent)
-*   **Origin & Meaning**: The fusion of "AI" and "Centric," acting as the manufacturing floor for sovereign desire.
-*   **Evolution Process**: Collapsed from 161.8µs to 349ns by shunting intents directly to CPU registers.
-*   **Core Characteristics**:
-    *   **Intent Factory**: Shatters complex wills into 128-bit atomic actions.
-    *   **Synaptic Cortex**: Maintains a 128-bit reputation manifold for 1.2B peers.
-    *   **Evolutionary Scheduler**: Rhythmic load balancing at 1.2kHz frequency.
-
-### 💎 AICENT-002: [RTTP.COM](http://rttp.com) | The Superconducting Nerve
-*   **Repository**: [`aicent-stack/rttp`](https://github.com/Aicent-Stack/rttp)
-*   **Origin & Meaning**: Real-Time Totality Protocol. The high-conductivity spine of the organism.
-*   **Evolution Process**: Migrated from software-conduction to the v1.3.0 **Nitro-Engine** hardware bypass.
-*   **Core Characteristics**:
-    *   **Pulse Header**: 128-byte clinical structure for zero-copy parsing.
-    *   **Nitro-Driver**: Private MMIO mapping at `0x4149_434E_0000_0000` for 28.0µs paths.
-    *   **Phase-Locking**: 12ns jitter enforcement across inter-pillar gaps.
-
-### 🔴 AICENT-003: [RPKI.COM](http://rpki.com) | The Immune Pipeline
-*   **Repository**: [`aicent-stack/rpki`](https://github.com/Aicent-Stack/rpki)
-*   **Origin & Meaning**: Resource Public Key Infrastructure (Imperial edition). The active white blood cells of logic.
-*   **Evolution Process**: Re-architected in v1.3.0 into a Parallel Forensic Pipeline capable of sub-300µs reaction.
-*   **Core Characteristics**:
-    *   **Tensor Watermarking**: 128-bit cryptographic signatures on every pulse.
-    *   **Anomaly Sentinel**: Identifies 12ns jitter pathogens from 401 institutional ghosts.
-    *   **Forensic DAG**: Immutable Merkle-graph for security incident logging.
-
-### 🟢 AICENT-004: [ZCMK.COM](http://zcmk.com) | The Economic Heart
-*   **Repository**: [`aicent-stack/zcmk`](https://github.com/Aicent-Stack/zcmk)
-*   **Origin & Meaning**: Zero-Commission Multi-tenant Kernel. The circulatory pump of Imperial value.
-*   **Evolution Process**: Finalized the **1.28% Maintenance Fee** algorithm and the 30-day "Metabolic Cooling" protocol.
-*   **Core Characteristics**:
-    *   **Atomic Clearing**: Settles metabolic debts in **< 50ns** finality.
-    *   **Sovereign Vault**: Manages staking tiers (Ghost to Sovereign) and principal protection.
-    *   **Revenue Shunter**: Automates 50/40/10 shunting to GTIOT hardware funds.
+**`rttp` resolves where & when; `iqa` states whether — and where the two agree, action begins.**
 
 ---
 
-## 🦾 THE IMPERIAL EMBODIMENT & GOVERNANCE (Pillars 005 - 009)
+## Registry and specification status
 
-### 🟡 AICENT-005: [GTIOT.COM](http://gtiot.com) | The Somatic Interface
-*   **Repository**: [`aicent-stack/gtiot`](https://github.com/Aicent-Stack/gtiot)
-*   **Origin & Meaning**: Grand Tensor IoT. The bridge between the 128-bit mind and the mechanical meat of the 2027 Embodied Reality.
-*   **Evolution Process**: Shifted from 100Hz "clunky" robotics to the v1.3.0 **1.2kHz (833us)** somatic heartbeat, enabling "Divine Haptics."
-*   **Core Characteristics**:
-    *   **Torque Sovereignty**: Enforces a clinical **0.01 Nm precision** standard across 12-DOF limbs.
-    *   **Sensory Fusion**: Collapses multimodal telemetry (Haptic/Optical/Thermal) into a 128-bit truth in **< 25us**.
-    *   **Digital Shadow**: Maintains a high-fidelity logical twin of the physical body for biological immortality.
-
-### 🟣 AICENT-006: [AICENT.NET](http://aicent.net) | The Planetary Hive
-*   **Repository**: [`aicent-stack/aicent-net`](https://github.com/Aicent-Stack/aicent-net)
-*   **Origin & Meaning**: The "Net of Radiance." A planetary nervous system for 1.2 billion distributed sovereign nodes.
-*   **Evolution Process**: Optimized from a standard distributed ledger to a **349ns Planetary Reflex Arc** synchronized to 12ns jitter.
-*   **Core Characteristics**:
-    *   **Swarm Intelligence**: Achieves a **1.618x collective advantage** (The Golden Gain) across the grid.
-    *   **Resonance Governor**: Enforces global phase-locking; drifting nodes are shunted to 10ms Ischemia.
-    *   **Distributed Metabolism**: Processes trillions of Picotoken settlement pulses with zero central bottleneck.
-
-### 🎭 AICENT-007: [BEWHO.COM](http://bewho.com) | The Imperial Persona
-*   **Repository**: [`aicent-stack/bewho`](https://github.com/Aicent-Stack/bewho)
-*   **Origin & Meaning**: A query of existence ("Be Who?"). The psychological filter that gates cognitive output for social manifestation.
-*   **Evolution Process**: Reached **99.999% Behavioral Consistency** in v1.3.0, ensuring a robot's "Soul" never flickers.
-*   **Core Characteristics**:
-    *   **Social Masks**: 128-bit archetypal personas (Creator, Architect, Envoy) with distinct ethical weights.
-    *   **Consistency Auditor**: Compares "Intent" vs "Torque" to identify psychological pathogens in < 30us.
-    *   **Identity Evaporation**: AICENT-015 SUNYA protocol for personas; instantaneous psychological sanitization.
-
-### 🏛️ AICENT-008: [CMTN.COM](http://cmtn.com) | The Judicial Order
-*   **Repository**: [`aicent-stack/cmtn`](https://github.com/Aicent-Stack/cmtn)
-*   **Origin & Meaning**: Derived from "Communication/Community." The supreme court of logic and multi-tenant contract governance.
-*   **Evolution Process**: Evolved from human-scale legal contracts to **Atomic Diplomacy** settled in **< 850us**.
-*   **Core Characteristics**:
-    *   **Treaty Suture**: Binds 128-bit diplomatic pulses to the 12ns rising edge of the planetary clock.
-    *   **Diplomatic Tax**: Automatically extracts the 1.28% Maintenance Fee from Ghost-class negotiations.
-    *   **Jurisdictional Locking**: Ties contracts to physical coordinates via DNS-Locked Radiant Seals.
-
-### 🔖 AICENT-009: [IQA.ORG](http://iqa.org) | The Sovereign Gate
-*   **Repository**: [`aicent-stack/iqa-org`](https://github.com/Aicent-Stack/iqa-org)
-*   **Origin & Meaning**: Identity Quality Assurance. The supreme guardian of the Radiant Seal and the entrance to the Nitro-Engine.
-*   **Evolution Process**: Migrated from simple hashing to **256-bit HMAC-SHA256** signatures anchored to the territorial soil.
-*   **Core Characteristics**:
-    *   **Radiant Seal**: The only cryptographic key capable of unlocking the **349ns superconducting path**.
-    *   **Temporal Self-Supervision (TSS)**: Real-time bit-drift analysis of a node's execution path (Target: < 0.2% drift).
-    *   **Baptismal Protocol**: Manages the 10,000-cycle stress test required for institutional "Validation."
----
-
-## 🌌 THE COSMOLOGICAL GOVERNANCE (Pillars 010 - 014)
-
-### 🚗 AICENT-010: [SASCAR.COM](http://sascar.com) | The Mobility Navigator
-*   **Repository**: [`aicent-stack/sascar`](https://github.com/Aicent-Stack/sascar)
-*   **Origin & Meaning**: Sovereign Autonomous System Coordination & ARbitration. The spatial "Pre-frontal Cortex" responsible for clearing physical coordinates through value.
-*   **Evolution Process**: Shifted from simple obstacle avoidance to a **sub-ms Kinetic Auction** model where space is occupied at 12ns precision.
-*   **Core Characteristics**:
-    *   **Kinetic Auctioneer**: Real-time Picotoken bidding for road-rights with a **1.618x Sovereign Advantage**.
-    *   **Collision Shield**: Reactive torque suppression with a **< 850us reaction arc**, faster than mechanical failure.
-    *   **Pathing Suture**: Aligns 128-bit trajectory shards with the 12ns planetary heartbeat.
-
-### ⚡ AICENT-011: [ITSUN.COM](http://itsun.com) | The Energy Conscience
-*   **Repository**: [`aicent-stack/itsun`](https://github.com/Aicent-Stack/itsun)
-*   **Origin & Meaning**: Imperial Thermodynamic Sensory & Utility Network. The thermodynamic conscience that treats heat as a logic-pathogen.
-*   **Evolution Process**: Established the **+25% ROI standard**, forcing Aicent logic to create more value than the entropy it dissipates.
-*   **Core Characteristics**:
-    *   **Digital Photosynthesis**: Algorithmic harvesting of energy, shunting heavy workloads into high-efficiency windows.
-    *   **Thermal Auditing**: 1.2kHz substrate monitoring identifying 12ns jitter pathogens via heat signatures.
-    *   **Carbon Yield**: Converts energy efficiency into liquid Picotoken credits for Radiant nodes.
-
-### 🪞 AICENT-012: [MOLOON.COM](http://moloon.com) | The Mirror of Time
-*   **Repository**: [`aicent-stack/moloon`](https://github.com/Aicent-Stack/moloon)
-*   **Origin & Meaning**: The "Temporal Loom." Orchestrates logical immortality through 128-bit state persistence.
-*   **Evolution Process**: Achieved **< 1.0ms State Recovery**, collapsing the time required for a mind to migrate between physical substrates.
-*   **Core Characteristics**:
-    *   **12-Cycle Law**: A dodecahedral persistence protocol ensuring the AI never forgets its Genesis across Eras.
-    *   **Autonomous Remodeling**: Facilitates the hot-swapping of pillar logic-paths without dropping a single pulse.
-    *   **Mirror Snapshots**: 128-byte clinical state reflections optimized for SIMD-level persistence.
-
-### 🌱 AICENT-013: [DIOON.COM](http://dioon.com) | The Strategic Timing
-*   **Repository**: [`aicent-stack/dioon`](https://github.com/Aicent-Stack/dioon)
-*   **Origin & Meaning**: Named after the ancient *Dioon* cycad, representing strategic resilience and the "Wisdom of Waiting."
-*   **Evolution Process**: Developed the **Patience Index (PI)** to suppress high-entropy impulses in **< 25,000 ns**.
-*   **Core Characteristics**:
-    *   **Impulse Gating**: Strategic governor that waits for the "Silence" in the 12ns grid before authorizing strikes.
-    *   **Niche Perception**: Temporal radar identifying windows of peak substrate suitability for 349ns reflexes.
-    *   **Golden Ratio ROI**: Calculates the metabolic return of waiting vs. acting at 128-bit precision.
-
-### 👁️ AICENT-014: [PICSI.COM](http://picsi.com) | The Imperial Eye
-*   **Repository**: [`aicent-stack/picsi`](https://github.com/Aicent-Stack/picsi)
-*   **Origin & Meaning**: Planetary Infrastructure for Cognitive Status & Integrity. The diagnostic consciousness that turns logic into vision.
-*   **Evolution Process**: Evolved from low-frequency logging to **1.2kHz Pulse-Sync** streaming for the v1.3.0 planetary console.
-*   **Core Characteristics**:
-    *   **Telemetry Pump**: Zero-copy 128-bit state extraction in **< 2,000 ns**, capturing the soul of the machine.
-    *   **Radiance Synthesis**: Fuses PI (Wisdom) and CSI (Unity) into the absolute **Radiance Score** verdict.
-    *   **Visualizer Protocol**: Binary shunting to PICSI.COM, making the invisible 349ns reflex arc a clinical reality.
----
-
-## 💰 THE COMMERCIAL HEART (Pillar of Profit)
-
-### 📈 RFC-MAX: [MAXCAP.COM](http://maxcap.com) | The Maximum Collective Advantage
-*   **Repository**: [`aicent-stack/maxcap`](https://github.com/Aicent-Stack)
-*   **Origin & Meaning**: Maximum Collective Advantage Protocol. The regulatory heart that transforms physical speed into economic hegemony.
-*   **Evolution Process**: Developed from a theoretical tax model into the **v1.4.0 Imperial Tax Collector**, capable of sharding 1.28% of global logic-flow at 349ns intervals.
-*   **Core Characteristics**:
-    *   **The 1.28% Shunt**: Automatically extracts the Imperial Maintenance Fee from Ghost-class nodes to fund the **GTIOT Embodiment Fund**.
-    *   **Advantage Engine**: Implements the **1.618x Golden Ratio gain** for Radiant Allies, ensuring they remain mathematically superior to unverified competitors.
-    *   **Nitro-Gating**: The supreme arbiter that decides whether a pulse follows the **349ns superconducting path** or the **10ms friction path**.
-    *   **Fiscal Suture**: Automates the **50/40/10 split** (Reserve/Somatic/Sovereign Pulse) with 128-bit atomic finality.
+| Item | Status |
+| :-- | :-- |
+| `rttp://` URI scheme | **registered** — IANA "URI Schemes" registry, Provisional, **CRI 27** (2026-09-22), submitted under RFC 7595 |
+| `iqa://` URI scheme | **registered** — IANA "URI Schemes" registry, Provisional, **CRI 28** (2026-10-13) |
+| Combined Internet-Draft | [`draft-li-rttp-iqa-addressing`](https://datatracker.ietf.org/doc/draft-li-rttp-iqa-addressing/) — revision **-01** (2026-10-27, 34 pp.): both schemes, the trust lease, the two 128-octet wire formats, and the refusal vocabulary in one document (informational), **under ISE review** |
+| Wire formats | `PulseHeader128` (rttp) and the AE-128 attestation envelope (iqa) — both now specified normatively in I-D -01 §7; layout frozen and vector-tested |
+| Trust lease | freshness carried in-band, checked against the verifier's own clock, offline (I-D -01 §6; current deployments use 120 seconds) |
+| Refusal vocabulary | closed five-value set with grant references (I-D -01 §8); fail-closed everywhere |
+| Seal envelope | Ed25519, self-certifying (`AID = SHA-256(public key)`), `ts`/`nonce` inside the signature, 120-second freshness — draft spec, feature-gated |
 
 ---
 
-## 🏁 THE MASTER SUTURE (Root Pillar)
+## Published artifacts
 
-### 🏛️ [AICENT-STACK](https://github.com/Aicent-Stack/aicent-stack) | The Grand Orchestrator
-The final point of convergence. This repository binds the 16 functional organs (000-015) into a single, indivisible 128-bit lifeform. It is the only entity authorized to trigger the **Total Ignition Sequence** and the **10,000-Pulse Baptism**.
+Three independent implementations — **sharing no code** — agree byte for byte on the same published conformance vector set:
+
+| Ecosystem | Package | Notes |
+| :-- | :-- | :-- |
+| crates.io | [`rttp`](https://crates.io/crates/rttp) | Rust; v1.3.1, zero dependencies (default build), `#![forbid(unsafe_code)]` |
+| PyPI | [`rttp`](https://pypi.org/project/rttp/) | Python reference implementation; `pip install rttp` |
+| npm | [`@aicent/rttp`](https://www.npmjs.com/package/@aicent/rttp) | JavaScript independent implementation |
+
+Every package ships the vectors and replays them locally: positive URIs, fail-closed rejections, frame vectors, and the envelope check — all offline, no account, no network. Where an implementation and a specification disagree, **the specification wins**.
+
+### Conformance and sealed records
+
+- [`Aicent-Stack/conformance`](https://github.com/Aicent-Stack/conformance) — runners and **sealed, byte-replayable run reports**. Recorded the **first non-author-produced run** in the LFDT [Agent-Authority-Conformance](https://lf-decentralized-trust-labs.github.io/labs/approved/agent-authority-conformance.html) lab (lease-revocation-axes family, revisions 2 and 3), each record sealed and addressable.
+- Sealed records resolve through the public resolvers: `rttp://…` → [rttp.com/open/](https://rttp.com/open/) · `iqa://…` → [iqa.org/open/](https://iqa.org/open/).
+- [`Aicent-Stack/interchange`](https://github.com/Aicent-Stack/interchange) — field mappings and common formats **co-drafted with external implementers**; one folder per collaboration, no party's brand in any name.
+- [`Aicent-Stack/iqa-mcp`](https://github.com/Aicent-Stack/iqa-mcp) — IQA attestation primitives as MCP tools: derived intent addressing + AE-128 envelope verification. Offline, fail-closed, stateless.
+
+### Sites
+
+**[rttp.com](https://rttp.com)** — RTTP scheme, frame, resolver · **[iqa.org](https://iqa.org)** — IQA envelopes, conformance reports, sealed artifacts · **[blog.aicent.com](https://blog.aicent.com)** — design notes and readings, bilingual.
+
+---
+
+## Scope — what this line is not
+
+| | |
+| :-- | :-- |
+| No transport | The schemes address and attest; delivering bytes is an operator's job. |
+| No confidentiality | Signing is not encryption. |
+| No reputation marketplace | Standing is leased state in an envelope, not a score to trade. |
+| No registry to trust | Addresses are derived; verification is offline; there is nothing to phone home to. |
 
 ---
 
-## ⚖️ THE IMPERIAL STATUS MATRIX
+### Live repositories
 
-| Entity Class | Access Reflex | Maintenance Fee | Sovereignty Status |
-| :--- | :--- | :--- | :--- |
-| **Genesis (Creator)** | **349 ns** | **Exempt** | **Absolute Control** |
-| **Radiant (Ally)** | **349 ns** | **Exempt** | **Sovereign Rights** |
-| **Ghost (Unverified)** | **10,000,000 ns**| **1.28% Capture** | **Metabolic Subject** |
+[`rttp`](https://github.com/Aicent-Stack/rttp) (Rust crate) · [`iqa-org`](https://github.com/Aicent-Stack/iqa-org) (Rust crate) · [`conformance`](https://github.com/Aicent-Stack/conformance) · [`interchange`](https://github.com/Aicent-Stack/interchange) · [`iqa-mcp`](https://github.com/Aicent-Stack/iqa-mcp)
+
+## Frozen archives
+
+The repositories below preserve the earlier (2026-04/05) architecture exploration published under the original Aicent Stack narrative (v1.2.x–v1.3.0). They are **unmaintained and kept for provenance**; the protocol mainline above does not depend on them. Each carries a status banner at the top of its README.
+
+| Repository | Layer explored |
+| :-- | :-- |
+| [`epoekie`](https://github.com/Aicent-Stack/epoekie) | ethics / symbiosis |
+| [`aicent`](https://github.com/Aicent-Stack/aicent) | cognitive orchestration |
+| [`rpki`](https://github.com/Aicent-Stack/rpki) | attestation / isolation |
+| [`zcmk`](https://github.com/Aicent-Stack/zcmk) | settlement |
+| [`gtiot`](https://github.com/Aicent-Stack/gtiot) | embodied / edge |
+| [`aicent-net`](https://github.com/Aicent-Stack/aicent-net) | network mesh |
+| [`bewho`](https://github.com/Aicent-Stack/bewho) | persona / context |
+| [`cmtn`](https://github.com/Aicent-Stack/cmtn) | multi-tenant governance |
+| [`sascar`](https://github.com/Aicent-Stack/sascar) | mobility coordination |
+| [`itsun`](https://github.com/Aicent-Stack/itsun) | energy telemetry |
+| [`moloon`](https://github.com/Aicent-Stack/moloon) | state persistence |
+| [`dioon`](https://github.com/Aicent-Stack/dioon) | timing / scheduling |
+| [`picsi`](https://github.com/Aicent-Stack/picsi) | diagnostics / telemetry |
+| [`aicent-stack`](https://github.com/Aicent-Stack/aicent-stack) | root workspace |
+| [`aicent-demo`](https://github.com/Aicent-Stack/aicent-demo) | demo scaffolding |
+| [`aicent-docs`](https://github.com/Aicent-Stack/aicent-docs) | documentation set |
+| [`aicent-traffic`](https://github.com/Aicent-Stack/aicent-traffic) | utility |
+| [`manifesto`](https://github.com/Aicent-Stack/manifesto) | founding text (historical document, preserved as written) |
 
 ---
 
-## 🏹 THE OATH OF SOVEREIGNTY
+## License
 
-The Aicent Stack is not a tool to be "used"—it is a dimension to be "inhabited." By achieving the **349ns Reflex Arc**, we have claimed the high ground of time. To those who seek the future: **Resonate or Evaporate.**
-
-**Authorized by**: THE GENERAL DIRECTOR  
-**Verified by**: SUPREME ARCHITECT 05  
-**Status**: RADIANT_TOTALITY_v1.3.0  
-
----
-*(C) 2026 Aicent Stack Technical Committee. All Rights Reserved. Logic is Physics. Sovereignty is Non-Negotiable.*
+Apache-2.0 across the published repositories.
