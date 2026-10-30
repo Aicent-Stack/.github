@@ -64,7 +64,7 @@ Every package ships the vectors and replays them locally: positive URIs, fail-cl
 
 ### Conformance and sealed records
 
-- [`Aicent-Stack/conformance`](https://github.com/Aicent-Stack/conformance) — runners and **sealed, byte-replayable run reports**. Recorded the **first non-author-produced run** in the LFDT [Agent-Authority-Conformance](https://lf-decentralized-trust-labs.github.io/labs/approved/agent-authority-conformance.html) lab (lease-revocation-axes family, revisions 2 and 3), each record sealed and addressable.
+- [`Aicent-Stack/conformance`](https://github.com/Aicent-Stack/conformance) — runners and **sealed, byte-replayable run reports** for the LFDT [Agent-Authority-Conformance](https://lf-decentralized-trust-labs.github.io/labs/approved/agent-authority-conformance.html) lab (lease-revocation-axes family, revisions 2 and 3): an independently written runner, author-produced records under the lab's classification, independently reproduced on 2026-10-29 — each record sealed and addressable.
 - Sealed records resolve through the public resolvers: `rttp://…` → [rttp.com/open/](https://rttp.com/open/) · `iqa://…` → [iqa.org/open/](https://iqa.org/open/).
 - [`Aicent-Stack/interchange`](https://github.com/Aicent-Stack/interchange) — field mappings and common formats **co-drafted with external implementers**; one folder per collaboration, no party's brand in any name.
 - [`Aicent-Stack/iqa-mcp`](https://github.com/Aicent-Stack/iqa-mcp) — IQA attestation primitives as MCP tools: derived intent addressing + AE-128 envelope verification. Offline, fail-closed, stateless.
