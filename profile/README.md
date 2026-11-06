@@ -42,10 +42,10 @@ The two are deliberately separate: derivation is not identity, and a proof of id
 | :-- | :-- |
 | `rttp://` URI scheme | **registered** — IANA "URI Schemes" registry, Provisional, **CRI 27** (2026-09-22), submitted under RFC 7595 |
 | `iqa://` URI scheme | **registered** — IANA "URI Schemes" registry, Provisional, **CRI 28** (2026-10-13) |
-| Combined Internet-Draft | [`draft-li-rttp-iqa-addressing`](https://datatracker.ietf.org/doc/draft-li-rttp-iqa-addressing/) — revision **-01** (2026-10-27, 34 pp.): both schemes, the trust lease, the two 128-octet wire formats, and the refusal vocabulary in one document (informational), **under ISE review** |
-| Wire formats | `PulseHeader128` (rttp) and the AE-128 attestation envelope (iqa) — both now specified normatively in I-D -01 §7; layout frozen and vector-tested |
-| Trust lease | freshness carried in-band, checked against the verifier's own clock, offline (I-D -01 §6; current deployments use 120 seconds) |
-| Refusal vocabulary | closed five-value set with grant references (I-D -01 §8); fail-closed everywhere |
+| Combined Internet-Draft | [`draft-li-rttp-iqa-addressing`](https://datatracker.ietf.org/doc/draft-li-rttp-iqa-addressing/) — revision **-02** (2026-11-01, 40 pp.): both schemes, the trust lease, the two 128-octet wire formats, and the refusal vocabulary in one document (informational), **under ISE review** |
+| Wire formats | `PulseHeader128` (rttp) and the AE-128 attestation envelope (iqa) — both now specified normatively in I-D -02 §7; layout frozen and vector-tested |
+| Trust lease | freshness carried in-band, checked against the verifier's own clock, offline (I-D -02 §6; current deployments use 120 seconds) |
+| Refusal vocabulary | closed five-value set with grant references (I-D -02 §8); fail-closed everywhere |
 | Seal envelope | Ed25519, self-certifying (`AID = SHA-256(public key)`), `ts`/`nonce` inside the signature, 120-second freshness — draft spec, feature-gated |
 
 ---
@@ -64,7 +64,7 @@ Every package ships the vectors and replays them locally: positive URIs, fail-cl
 
 ### Conformance and sealed records
 
-- [`Aicent-Stack/conformance`](https://github.com/Aicent-Stack/conformance) — runners and **sealed, byte-replayable run reports** for the LFDT [Agent-Authority-Conformance](https://lf-decentralized-trust-labs.github.io/labs/approved/agent-authority-conformance.html) lab (lease-revocation-axes family, revisions 2 and 3): an independently written runner, author-produced records under the lab's classification, independently reproduced on 2026-10-29 — each record sealed and addressable.
+- [`Aicent-Stack/conformance`](https://github.com/Aicent-Stack/conformance) — runners and **sealed, byte-replayable run reports** for the LFDT [Agent-Authority-Conformance](https://lf-decentralized-trust-labs.github.io/labs/approved/agent-authority-conformance.html) lab: the lease-revocation-axes family (revisions 2 and 3, author-produced records, independently reproduced on 2026-10-29), two merged vector families of our own authorship ([aicent-grant-ref](https://github.com/Agent-Authority-Conformance/aps-conformance-suite/pull/210), [aicent-lease-boundary](https://github.com/Agent-Authority-Conformance/aps-conformance-suite/pull/212)), and an independently produced run of the AAE family ([PR #215](https://github.com/Agent-Authority-Conformance/aps-conformance-suite/pull/215)) — each record sealed and addressable.
 - Sealed records resolve through the public resolvers: `rttp://…` → [rttp.com/open/](https://rttp.com/open/) · `iqa://…` → [iqa.org/open/](https://iqa.org/open/).
 - [`Aicent-Stack/interchange`](https://github.com/Aicent-Stack/interchange) — field mappings and common formats **co-drafted with external implementers**; one folder per collaboration, no party's brand in any name.
 - [`Aicent-Stack/iqa-mcp`](https://github.com/Aicent-Stack/iqa-mcp) — IQA attestation primitives as MCP tools: derived intent addressing + AE-128 envelope verification. Offline, fail-closed, stateless.
