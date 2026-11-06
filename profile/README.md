@@ -73,6 +73,8 @@ Every package ships the vectors and replays them locally: positive URIs, fail-cl
 
 **[rttp.com](https://rttp.com)** — RTTP scheme, frame, resolver · **[iqa.org](https://iqa.org)** — IQA envelopes, conformance reports, sealed artifacts · **[blog.aicent.com](https://blog.aicent.com)** — design notes and readings, bilingual.
 
+**[Aicent-Stack/aicent-docs](https://github.com/Aicent-Stack/aicent-docs)** — the curated index of the reading line: every article filed and pointed, never mirrored.
+
 ---
 
 ## Scope — what this line is not
@@ -88,7 +90,7 @@ Every package ships the vectors and replays them locally: positive URIs, fail-cl
 
 ### Live repositories
 
-[`rttp`](https://github.com/Aicent-Stack/rttp) (Rust crate) · [`iqa-org`](https://github.com/Aicent-Stack/iqa-org) (Rust crate) · [`conformance`](https://github.com/Aicent-Stack/conformance) · [`interchange`](https://github.com/Aicent-Stack/interchange) · [`iqa-mcp`](https://github.com/Aicent-Stack/iqa-mcp)
+[`rttp`](https://github.com/Aicent-Stack/rttp) (Rust crate) · [`iqa-org`](https://github.com/Aicent-Stack/iqa-org) (Rust crate) · [`conformance`](https://github.com/Aicent-Stack/conformance) · [`interchange`](https://github.com/Aicent-Stack/interchange) · [`iqa-mcp`](https://github.com/Aicent-Stack/iqa-mcp) · [`aicent-docs`](https://github.com/Aicent-Stack/aicent-docs) (curated article index) · [`manifesto`](https://github.com/Aicent-Stack/manifesto) (founding text, narrative frozen)
 
 ## Frozen archives
 
@@ -111,9 +113,7 @@ The repositories below preserve the earlier (2026-04/05) architecture exploratio
 | [`picsi`](https://github.com/Aicent-Stack/picsi) | diagnostics / telemetry |
 | [`aicent-stack`](https://github.com/Aicent-Stack/aicent-stack) | root workspace |
 | [`aicent-demo`](https://github.com/Aicent-Stack/aicent-demo) | demo scaffolding |
-| [`aicent-docs`](https://github.com/Aicent-Stack/aicent-docs) | documentation set |
 | [`aicent-traffic`](https://github.com/Aicent-Stack/aicent-traffic) | utility |
-| [`manifesto`](https://github.com/Aicent-Stack/manifesto) | founding text (historical document, preserved as written) |
 
 ---
 
